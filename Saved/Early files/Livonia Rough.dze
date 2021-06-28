@@ -1,0 +1,2442 @@
+{
+    "MapName": "Enoch",
+    "CameraPosition": [
+        5144.59033203125,
+        258.39111328125,
+        9398.8349609375
+    ],
+    "EditorObjects": [
+        {
+            "m_Id": 1,
+            "Type": "bldr_container_2e",
+            "DisplayName": "bldr_container_2e",
+            "Position": [
+                5300.60009765625,
+                176.9219970703125,
+                9490.7802734375
+            ],
+            "Orientation": [
+                -144.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 2,
+            "Type": "bldr_cementworks_silobig1bridge",
+            "DisplayName": "bldr_cementworks_silobig1bridge",
+            "Position": [
+                5271.99560546875,
+                170.70587158203126,
+                9535.1640625
+            ],
+            "Orientation": [
+                35.99991989135742,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 3,
+            "Type": "bldr_mine_heap",
+            "DisplayName": "bldr_mine_heap",
+            "Position": [
+                5261.6279296875,
+                172.45150756835938,
+                9463.3515625
+            ],
+            "Orientation": [
+                -62.99998092651367,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 5,
+            "Type": "bldr_mine_heap",
+            "DisplayName": "bldr_mine_heap",
+            "Position": [
+                5242.43505859375,
+                173.78768920898438,
+                9476.5712890625
+            ],
+            "Orientation": [
+                -62.99998092651367,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 10,
+            "Type": "bldr_Hanged_doctor",
+            "DisplayName": "bldr_Hanged_doctor",
+            "Position": [
+                5250.77978515625,
+                174.7493896484375,
+                9523.666015625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 11,
+            "Type": "bldr_Hanged_doctor",
+            "DisplayName": "bldr_Hanged_doctor",
+            "Position": [
+                5220.90185546875,
+                178.2594451904297,
+                9562.1064453125
+            ],
+            "Orientation": [
+                -26.999998092651368,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 12,
+            "Type": "bldr_Dead_MassGrave_15m",
+            "DisplayName": "bldr_Dead_MassGrave_15m",
+            "Position": [
+                5233.7841796875,
+                174.3919677734375,
+                9556.296875
+            ],
+            "Orientation": [
+                -125.99999237060547,
+                -0.5520191788673401,
+                -1.071800708770752
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 14,
+            "Type": "bldr_Dead_MassGrave_15m",
+            "DisplayName": "bldr_Dead_MassGrave_15m",
+            "Position": [
+                5235.98876953125,
+                174.2900390625,
+                9561.72265625
+            ],
+            "Orientation": [
+                -125.99996185302735,
+                3.6608564853668215,
+                -0.4018644392490387
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 15,
+            "Type": "bldr_Hotel_Damaged_Airplane_Wing",
+            "DisplayName": "bldr_Hotel_Damaged_Airplane_Wing",
+            "Position": [
+                5299.87939453125,
+                171.16786193847657,
+                9513.166015625
+            ],
+            "Orientation": [
+                0.0,
+                -13.622759819030762,
+                -7.598583221435547
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 16,
+            "Type": "bldr_Hotel_Damaged_Airplane_Back",
+            "DisplayName": "bldr_Hotel_Damaged_Airplane_Back",
+            "Position": [
+                5282.7001953125,
+                169.38099670410157,
+                9525.3203125
+            ],
+            "Orientation": [
+                -135.00001525878907,
+                5.402279853820801,
+                -1.5484299659729005
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 17,
+            "Type": "bldr_church_cross_1a",
+            "DisplayName": "bldr_church_cross_1a",
+            "Position": [
+                5229.01513671875,
+                173.4330596923828,
+                9506.2412109375
+            ],
+            "Orientation": [
+                0.0,
+                2.638943672180176,
+                5.746554851531982
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 18,
+            "Type": "bldr_Prison_Wall_Small",
+            "DisplayName": "bldr_Prison_Wall_Small",
+            "Position": [
+                5223.53564453125,
+                178.23658752441407,
+                9529.1826171875
+            ],
+            "Orientation": [
+                -99.00016784667969,
+                0.22320565581321717,
+                -1.520087718963623
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 19,
+            "Type": "bldr_Prison_Wall_Small",
+            "DisplayName": "bldr_Prison_Wall_Small",
+            "Position": [
+                5220.10498046875,
+                178.01409912109376,
+                9515.474609375
+            ],
+            "Orientation": [
+                -36.0,
+                2.4147861003875734,
+                1.3004766702651978
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 20,
+            "Type": "bldr_Prison_Wall_Small",
+            "DisplayName": "bldr_Prison_Wall_Small",
+            "Position": [
+                5208.8994140625,
+                178.21563720703126,
+                9502.421875
+            ],
+            "Orientation": [
+                -44.999996185302737,
+                7.593620777130127,
+                2.118971109390259
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 21,
+            "Type": "bldr_T34",
+            "DisplayName": "bldr_T34",
+            "Position": [
+                5256.2041015625,
+                169.6689453125,
+                9478.048828125
+            ],
+            "Orientation": [
+                -8.999984741210938,
+                3.0273070335388185,
+                6.349680423736572
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 22,
+            "Type": "bldr_Statue_General",
+            "DisplayName": "bldr_Statue_General",
+            "Position": [
+                5279.017578125,
+                173.73367309570313,
+                9529.892578125
+            ],
+            "Orientation": [
+                -62.99998092651367,
+                1.1988948583602906,
+                3.6929209232330324
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 23,
+            "Type": "bldr_Monument_Soldiers",
+            "DisplayName": "bldr_Monument_Soldiers",
+            "Position": [
+                5336.6435546875,
+                179.36264038085938,
+                9526.3125
+            ],
+            "Orientation": [
+                -153.00003051757813,
+                -0.06284191459417343,
+                -2.4998114109039308
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 24,
+            "Type": "bldr_hbarrier_6m",
+            "DisplayName": "bldr_hbarrier_6m",
+            "Position": [
+                5305.373046875,
+                175.2368621826172,
+                9491.6162109375
+            ],
+            "Orientation": [
+                -53.99993133544922,
+                -0.5932649970054627,
+                -0.43105271458625796
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 25,
+            "Type": "bldr_hbarrier_6m",
+            "DisplayName": "bldr_hbarrier_6m",
+            "Position": [
+                5301.41796875,
+                175.07583618164063,
+                9484.2060546875
+            ],
+            "Orientation": [
+                -53.999996185302737,
+                0.7398386001586914,
+                -1.9540965557098389
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 26,
+            "Type": "bldr_mil_fortified_nest_small",
+            "DisplayName": "bldr_mil_fortified_nest_small",
+            "Position": [
+                5233.89453125,
+                175.5405731201172,
+                9536.7998046875
+            ],
+            "Orientation": [
+                -63.00003433227539,
+                0.63288414478302,
+                -2.45354962348938
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 27,
+            "Type": "bldr_mil_fortified_nest_small",
+            "DisplayName": "bldr_mil_fortified_nest_small",
+            "Position": [
+                5241.23828125,
+                175.59927368164063,
+                9542.7451171875
+            ],
+            "Orientation": [
+                -27.000036239624025,
+                0.3251609802246094,
+                -0.3714934289455414
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 28,
+            "Type": "bldr_roadblock_cncblock",
+            "DisplayName": "bldr_roadblock_cncblock",
+            "Position": [
+                5228.8994140625,
+                174.38438415527345,
+                9546.5830078125
+            ],
+            "Orientation": [
+                -135.00009155273438,
+                -0.4536597430706024,
+                0.5834424495697022
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 29,
+            "Type": "bldr_roadblock_bags_long",
+            "DisplayName": "bldr_roadblock_bags_long",
+            "Position": [
+                5235.57373046875,
+                173.4085693359375,
+                9525.8876953125
+            ],
+            "Orientation": [
+                -35.99999237060547,
+                10.307724952697754,
+                -1.8963823318481446
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 30,
+            "Type": "bldr_mil_blastcover4",
+            "DisplayName": "bldr_mil_blastcover4",
+            "Position": [
+                4254.4794921875,
+                240.23638916015626,
+                10616.1123046875
+            ],
+            "Orientation": [
+                44.99991226196289,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 31,
+            "Type": "bldr_mil_blastcover2",
+            "DisplayName": "bldr_mil_blastcover2",
+            "Position": [
+                4233.77294921875,
+                240.20355224609376,
+                10552.3056640625
+            ],
+            "Orientation": [
+                135.00003051757813,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 32,
+            "Type": "bldr_mil_blastcover1",
+            "DisplayName": "bldr_mil_blastcover1",
+            "Position": [
+                4213.06298828125,
+                240.2042236328125,
+                10616.064453125
+            ],
+            "Orientation": [
+                -45.00012969970703,
+                0.45368409156799319,
+                0.06478401273488999
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 33,
+            "Type": "bldr_mil_artillery_nest",
+            "DisplayName": "bldr_mil_artillery_nest",
+            "Position": [
+                4349.02978515625,
+                237.83200073242188,
+                10564.599609375
+            ],
+            "Orientation": [
+                45.0,
+                -4.066629886627197,
+                0.06472130864858628
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 34,
+            "Type": "bldr_mil_camonet_side_nato",
+            "DisplayName": "bldr_mil_camonet_side_nato",
+            "Position": [
+                4251.81640625,
+                241.00721740722657,
+                10448.72265625
+            ],
+            "Orientation": [
+                -63.000064849853519,
+                -0.29288309812545779,
+                0.7766416668891907
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 35,
+            "Type": "bldr_mil_artilery_rampart",
+            "DisplayName": "bldr_mil_artilery_rampart",
+            "Position": [
+                4279.759765625,
+                238.57200622558595,
+                10528.900390625
+            ],
+            "Orientation": [
+                45.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 36,
+            "Type": "bldr_misc_barbedwire",
+            "DisplayName": "bldr_misc_barbedwire",
+            "Position": [
+                4315.0712890625,
+                239.3367156982422,
+                10420.7705078125
+            ],
+            "Orientation": [
+                -27.00000762939453,
+                0.015488840639591217,
+                2.048943281173706
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 37,
+            "Type": "bldr_misc_concreteblock1",
+            "DisplayName": "bldr_misc_concreteblock1",
+            "Position": [
+                4315.24560546875,
+                238.4579315185547,
+                10431.455078125
+            ],
+            "Orientation": [
+                0.0,
+                -0.45836448669433596,
+                0.2749975919723511
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 38,
+            "Type": "bldr_misc_dragonteeth_big",
+            "DisplayName": "bldr_misc_dragonteeth_big",
+            "Position": [
+                4531.3017578125,
+                225.44412231445313,
+                10394.697265625
+            ],
+            "Orientation": [
+                -9.000016212463379,
+                1.8419442176818848,
+                2.859494924545288
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 39,
+            "Type": "bldr_misc_bagfence_3m",
+            "DisplayName": "bldr_misc_bagfence_3m",
+            "Position": [
+                4485.96875,
+                228.34361267089845,
+                10405.599609375
+            ],
+            "Orientation": [
+                134.9999542236328,
+                -0.1294795721769333,
+                -2.2028589248657228
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 40,
+            "Type": "bldr_misc_hedgehog_concrete",
+            "DisplayName": "bldr_misc_hedgehog_concrete",
+            "Position": [
+                4521.26123046875,
+                225.7347869873047,
+                10397.5087890625
+            ],
+            "Orientation": [
+                0.0,
+                0.7315734028816223,
+                3.935359239578247
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 41,
+            "Type": "bldr_misc_razorwire",
+            "DisplayName": "bldr_misc_razorwire",
+            "Position": [
+                4446.26806640625,
+                231.6392364501953,
+                10456.376953125
+            ],
+            "Orientation": [
+                -107.99998474121094,
+                0.8651059865951538,
+                0.5862379670143127
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 42,
+            "Type": "bldr_misc_range_roof",
+            "DisplayName": "bldr_misc_range_roof",
+            "Position": [
+                4223.20654296875,
+                239.7814483642578,
+                10605.7431640625
+            ],
+            "Orientation": [
+                -45.00008773803711,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 43,
+            "Type": "bldr_misc_range_roof",
+            "DisplayName": "bldr_misc_range_roof",
+            "Position": [
+                4222.673828125,
+                239.7815399169922,
+                10564.21484375
+            ],
+            "Orientation": [
+                -45.00010681152344,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 44,
+            "Type": "bldr_plnt_b_corylusAvellana_2s",
+            "DisplayName": "bldr_plnt_b_corylusAvellana_2s",
+            "Position": [
+                4342.08984375,
+                241.37628173828126,
+                10437.4248046875
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 45,
+            "Type": "bldr_plnt_c_Twigs",
+            "DisplayName": "bldr_plnt_c_Twigs",
+            "Position": [
+                4288.630859375,
+                238.32435607910157,
+                10531.0224609375
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 46,
+            "Type": "bldr_plnt_t_FagusSylvatica_2fb",
+            "DisplayName": "bldr_plnt_t_FagusSylvatica_2fb",
+            "Position": [
+                4264.22412109375,
+                250.34036254882813,
+                10589.828125
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 47,
+            "Type": "bldr_rail_linebreak_iron",
+            "DisplayName": "bldr_rail_linebreak_iron",
+            "Position": [
+                4303.70947265625,
+                238.89547729492188,
+                10544.591796875
+            ],
+            "Orientation": [
+                -54.000057220458987,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 48,
+            "Type": "bldr_rail_platform_cross",
+            "DisplayName": "bldr_rail_platform_cross",
+            "Position": [
+                4252.9326171875,
+                238.90081787109376,
+                10439.3681640625
+            ],
+            "Orientation": [
+                0.0,
+                -0.5501145720481873,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 49,
+            "Type": "bldr_rail_polett1",
+            "DisplayName": "bldr_rail_polett1",
+            "Position": [
+                4293.0234375,
+                243.07232666015626,
+                10543.3837890625
+            ],
+            "Orientation": [
+                -44.999996185302737,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 50,
+            "Type": "bldr_Lamp_City3",
+            "DisplayName": "bldr_Lamp_City3",
+            "Position": [
+                4267.62744140625,
+                242.99179077148438,
+                10583.9296875
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 51,
+            "Type": "bldr_Ruin_HouseSmall2_Proxy_overgrowth",
+            "DisplayName": "bldr_Ruin_HouseSmall2_Proxy_overgrowth",
+            "Position": [
+                4284.9189453125,
+                246.3975830078125,
+                10414.9501953125
+            ],
+            "Orientation": [
+                -44.99994659423828,
+                -4.384994983673096,
+                1.4215126037597657
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 52,
+            "Type": "bldr_Wall_SilageWall_5",
+            "DisplayName": "bldr_Wall_SilageWall_5",
+            "Position": [
+                4247.197265625,
+                240.24844360351563,
+                10460.2412109375
+            ],
+            "Orientation": [
+                -45.0,
+                -0.4536699950695038,
+                -0.4536842107772827
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 53,
+            "Type": "bldr_Wall_Stone2",
+            "DisplayName": "bldr_Wall_Stone2",
+            "Position": [
+                4358.09912109375,
+                238.3814239501953,
+                10409.482421875
+            ],
+            "Orientation": [
+                0.0,
+                2.4706614017486574,
+                1.3734979629516602
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 54,
+            "Type": "bldr_Wall_IndCnc4_Low_4",
+            "DisplayName": "bldr_Wall_IndCnc4_Low_4",
+            "Position": [
+                4151.623046875,
+                239.2098846435547,
+                10475.736328125
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 55,
+            "Type": "bldr_Wall_IndCnc4_8",
+            "DisplayName": "bldr_Wall_IndCnc4_8",
+            "Position": [
+                4484.81396484375,
+                229.78575134277345,
+                10451.310546875
+            ],
+            "Orientation": [
+                45.00028991699219,
+                1.4799124002456666,
+                6.644536972045898
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 56,
+            "Type": "bldr_Wall_IndFnc2_Corner",
+            "DisplayName": "bldr_Wall_IndFnc2_Corner",
+            "Position": [
+                4473.9345703125,
+                231.544189453125,
+                10460.7138671875
+            ],
+            "Orientation": [
+                -17.999990463256837,
+                0.9665403366088867,
+                2.3828258514404299
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 57,
+            "Type": "bldr_Wall_MilCnc_4",
+            "DisplayName": "bldr_Wall_MilCnc_4",
+            "Position": [
+                4485.42919921875,
+                231.28036499023438,
+                10464.56640625
+            ],
+            "Orientation": [
+                -125.9999771118164,
+                2.67271089553833,
+                -4.091897964477539
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 58,
+            "Type": "bldr_Wall_MilCnc_Corner",
+            "DisplayName": "bldr_Wall_MilCnc_Corner",
+            "Position": [
+                4459.642578125,
+                232.90968322753907,
+                10465.8564453125
+            ],
+            "Orientation": [
+                -107.99999237060547,
+                2.489502429962158,
+                -0.03898334875702858
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 59,
+            "Type": "bldr_Wall_PipeFence_8",
+            "DisplayName": "bldr_Wall_PipeFence_8",
+            "Position": [
+                4446.1728515625,
+                231.45437622070313,
+                10440.6015625
+            ],
+            "Orientation": [
+                -27.000059127807618,
+                1.0116363763809205,
+                4.003061771392822
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 60,
+            "Type": "bldr_Wall_Railing_1_Pole",
+            "DisplayName": "bldr_Wall_Railing_1_Pole",
+            "Position": [
+                4450.12890625,
+                231.6148223876953,
+                10442.650390625
+            ],
+            "Orientation": [
+                0.0,
+                -0.36604541540145876,
+                3.2052061557769777
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 61,
+            "Type": "bldr_Wall_IndVar3_5",
+            "DisplayName": "bldr_Wall_IndVar3_5",
+            "Position": [
+                4452.3994140625,
+                232.0227813720703,
+                10440.8134765625
+            ],
+            "Orientation": [
+                -135.0001678466797,
+                2.522433042526245,
+                -2.006821870803833
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 62,
+            "Type": "bldr_Wall_MilCncBarrier",
+            "DisplayName": "bldr_Wall_MilCncBarrier",
+            "Position": [
+                4465.13623046875,
+                230.731689453125,
+                10431.66796875
+            ],
+            "Orientation": [
+                -63.00001525878906,
+                -0.7713654041290283,
+                4.738657474517822
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 63,
+            "Type": "bldr_Wall_Fen5_5",
+            "DisplayName": "bldr_Wall_Fen5_5",
+            "Position": [
+                4456.6748046875,
+                231.7075653076172,
+                10439.53515625
+            ],
+            "Orientation": [
+                0.0,
+                3.379425287246704,
+                2.2866106033325197
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 64,
+            "Type": "bldr_Wall_Fen4_4",
+            "DisplayName": "bldr_Wall_Fen4_4",
+            "Position": [
+                4461.1982421875,
+                231.76974487304688,
+                10438.90625
+            ],
+            "Orientation": [
+                0.0,
+                5.27902364730835,
+                0.36519715189933779
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 65,
+            "Type": "bldr_Wall_IndCnc4_8",
+            "DisplayName": "bldr_Wall_IndCnc4_8",
+            "Position": [
+                4467.166015625,
+                231.68563842773438,
+                10438.947265625
+            ],
+            "Orientation": [
+                0.0,
+                5.277412414550781,
+                -1.4602136611938477
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 66,
+            "Type": "bldr_Wall_FenVineyard",
+            "DisplayName": "bldr_Wall_FenVineyard",
+            "Position": [
+                4459.33837890625,
+                231.46006774902345,
+                10442.658203125
+            ],
+            "Orientation": [
+                0.0,
+                5.27902364730835,
+                0.36519715189933779
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 67,
+            "Type": "bldr_Wall_FenStadium",
+            "DisplayName": "bldr_Wall_FenStadium",
+            "Position": [
+                4459.89697265625,
+                232.9114532470703,
+                10446.4541015625
+            ],
+            "Orientation": [
+                0.0,
+                -0.18324393033981324,
+                0.09162233769893646
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 68,
+            "Type": "bldr_Forest_BeetleTrap1",
+            "DisplayName": "bldr_Forest_BeetleTrap1",
+            "Position": [
+                4463.408203125,
+                231.25796508789063,
+                10449.7275390625
+            ],
+            "Orientation": [
+                0.0,
+                3.1081769466400148,
+                1.5557446479797364
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 69,
+            "Type": "bldr_Forest_Anthill",
+            "DisplayName": "bldr_Forest_Anthill",
+            "Position": [
+                4476.5361328125,
+                230.18141174316407,
+                10458.4521484375
+            ],
+            "Orientation": [
+                0.0,
+                0.1819724291563034,
+                7.113685607910156
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 70,
+            "Type": "bldr_Transmitter_Box",
+            "DisplayName": "bldr_Transmitter_Box",
+            "Position": [
+                4453.23974609375,
+                234.25953674316407,
+                10455.1533203125
+            ],
+            "Orientation": [
+                -36.000003814697269,
+                0.2560669183731079,
+                0.04045712202787399
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 71,
+            "Type": "bldr_Tower_TC6_Ladder",
+            "DisplayName": "bldr_Tower_TC6_Ladder",
+            "Position": [
+                4452.1943359375,
+                243.33604431152345,
+                10448.9951171875
+            ],
+            "Orientation": [
+                27.0,
+                -0.49165722727775576,
+                -0.044707123190164569
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 72,
+            "Type": "bldr_Wall_Stone2",
+            "DisplayName": "bldr_Wall_Stone2",
+            "Position": [
+                4461.1787109375,
+                231.29421997070313,
+                10459.2783203125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                1.649595022201538
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 73,
+            "Type": "bldr_Wall_PipeFenceWall_8",
+            "DisplayName": "bldr_Wall_PipeFenceWall_8",
+            "Position": [
+                4481.880859375,
+                231.7466278076172,
+                10475.0537109375
+            ],
+            "Orientation": [
+                45.00000762939453,
+                -2.97080397605896,
+                3.1042182445526125
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 74,
+            "Type": "bldr_Wall_PipeFenceWall_8",
+            "DisplayName": "bldr_Wall_PipeFenceWall_8",
+            "Position": [
+                4488.28857421875,
+                231.251708984375,
+                10472.16015625
+            ],
+            "Orientation": [
+                0.0,
+                -0.7264583110809326,
+                7.83406925201416
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 75,
+            "Type": "bldr_Wall_MilCnc_Corner",
+            "DisplayName": "bldr_Wall_MilCnc_Corner",
+            "Position": [
+                4436.5810546875,
+                234.33273315429688,
+                10477.173828125
+            ],
+            "Orientation": [
+                0.0,
+                7.445489883422852,
+                6.783780097961426
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 76,
+            "Type": "bldr_Wall_Fen5_5",
+            "DisplayName": "bldr_Wall_Fen5_5",
+            "Position": [
+                4493.74462890625,
+                229.73477172851563,
+                10470.0068359375
+            ],
+            "Orientation": [
+                45.00001907348633,
+                -4.36933708190918,
+                5.0283203125
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 77,
+            "Type": "bldr_Wall_Fen5_10",
+            "DisplayName": "bldr_Wall_Fen5_10",
+            "Position": [
+                4499.58984375,
+                229.2789306640625,
+                10465.3037109375
+            ],
+            "Orientation": [
+                -152.99998474121095,
+                4.706902503967285,
+                -4.0433125495910648
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 78,
+            "Type": "bldr_Wall_Fen5_10",
+            "DisplayName": "bldr_Wall_Fen5_10",
+            "Position": [
+                4507.6767578125,
+                228.2417449951172,
+                10460.0869140625
+            ],
+            "Orientation": [
+                45.00000762939453,
+                -10.59979248046875,
+                4.257981777191162
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 79,
+            "Type": "bldr_Wall_Fen5_5",
+            "DisplayName": "bldr_Wall_Fen5_5",
+            "Position": [
+                4511.6904296875,
+                228.00454711914063,
+                10453.9306640625
+            ],
+            "Orientation": [
+                -116.99998474121094,
+                11.54632568359375,
+                -0.32972174882888796
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 80,
+            "Type": "bldr_Wall_Fen5_5",
+            "DisplayName": "bldr_Wall_Fen5_5",
+            "Position": [
+                4515.09130859375,
+                227.670166015625,
+                10450.0810546875
+            ],
+            "Orientation": [
+                -144.0000457763672,
+                10.603011131286621,
+                -6.261728763580322
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 81,
+            "Type": "bldr_Wall_Fen5_10",
+            "DisplayName": "bldr_Wall_Fen5_10",
+            "Position": [
+                4516.9833984375,
+                227.5718536376953,
+                10443.6884765625
+            ],
+            "Orientation": [
+                -90.0,
+                6.615322113037109,
+                1.183580994606018
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 82,
+            "Type": "bldr_Wall_Fen5_10",
+            "DisplayName": "bldr_Wall_Fen5_10",
+            "Position": [
+                4521.38623046875,
+                227.28126525878907,
+                10436.056640625
+            ],
+            "Orientation": [
+                36.000003814697269,
+                -5.972128868103027,
+                3.2970409393310549
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 83,
+            "Type": "bldr_Wall_Fen5_10",
+            "DisplayName": "bldr_Wall_Fen5_10",
+            "Position": [
+                4527.35400390625,
+                227.01446533203126,
+                10428.1005859375
+            ],
+            "Orientation": [
+                -116.99994659423828,
+                10.020090103149414,
+                0.0037815833929926159
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 84,
+            "Type": "bldr_Wall_Fen5_5",
+            "DisplayName": "bldr_Wall_Fen5_5",
+            "Position": [
+                4530.44921875,
+                226.70123291015626,
+                10421.3544921875
+            ],
+            "Orientation": [
+                80.99992370605469,
+                -8.699108123779297,
+                2.489266872406006
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 85,
+            "Type": "bldr_Sign_EnochMil_Warning1_PL",
+            "DisplayName": "bldr_Sign_EnochMil_Warning1_PL",
+            "Position": [
+                4556.3671875,
+                224.49282836914063,
+                10387.609375
+            ],
+            "Orientation": [
+                -17.99993133544922,
+                2.7966885566711427,
+                1.2082761526107789
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 86,
+            "Type": "bldr_Slum_Roof6",
+            "DisplayName": "bldr_Slum_Roof6",
+            "Position": [
+                4553.1728515625,
+                226.4957275390625,
+                10394.0126953125
+            ],
+            "Orientation": [
+                -45.000038146972659,
+                2.975165367126465,
+                -0.12950006127357484
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 87,
+            "Type": "bldr_Slum_Roof4",
+            "DisplayName": "bldr_Slum_Roof4",
+            "Position": [
+                4536.4619140625,
+                226.04220581054688,
+                10390.1416015625
+            ],
+            "Orientation": [
+                45.0,
+                -0.582035481929779,
+                3.8186566829681398
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 88,
+            "Type": "bldr_Misc_Table_Market",
+            "DisplayName": "bldr_Misc_Table_Market",
+            "Position": [
+                4538.34423828125,
+                224.27627563476563,
+                10389.2958984375
+            ],
+            "Orientation": [
+                -35.99998474121094,
+                3.032435894012451,
+                0.2841379642486572
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 89,
+            "Type": "bldr_Misc_MysteriousBell",
+            "DisplayName": "bldr_Misc_MysteriousBell",
+            "Position": [
+                4541.0517578125,
+                224.68789672851563,
+                10390.92578125
+            ],
+            "Orientation": [
+                0.0,
+                2.2873635292053224,
+                2.014380693435669
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 90,
+            "Type": "bldr_Misc_GasMeterCabinet",
+            "DisplayName": "bldr_Misc_GasMeterCabinet",
+            "Position": [
+                4536.044921875,
+                224.74057006835938,
+                10388.4853515625
+            ],
+            "Orientation": [
+                53.99998092651367,
+                -3.463009834289551,
+                3.31130051612854
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 91,
+            "Type": "bldr_Lamp_Stadium",
+            "DisplayName": "bldr_Lamp_Stadium",
+            "Position": [
+                4513.806640625,
+                241.14532470703126,
+                10395.64453125
+            ],
+            "Orientation": [
+                -135.0001983642578,
+                1.4220869541168213,
+                -3.882254123687744
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 92,
+            "Type": "bldr_Lamp_Halogen",
+            "DisplayName": "bldr_Lamp_Halogen",
+            "Position": [
+                4509.1669921875,
+                233.50674438476563,
+                10425.359375
+            ],
+            "Orientation": [
+                45.00000762939453,
+                -0.1942887306213379,
+                2.3969974517822267
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 93,
+            "Type": "bldr_Slum_Roof1",
+            "DisplayName": "bldr_Slum_Roof1",
+            "Position": [
+                4521.7666015625,
+                228.51133728027345,
+                10426.44140625
+            ],
+            "Orientation": [
+                -44.999996185302737,
+                0.3885082006454468,
+                2.591043710708618
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 94,
+            "Type": "bldr_Slum_Roof5",
+            "DisplayName": "bldr_Slum_Roof5",
+            "Position": [
+                4530.17822265625,
+                226.787353515625,
+                10384.2333984375
+            ],
+            "Orientation": [
+                53.99998092651367,
+                -3.1245906352996828,
+                2.3862662315368654
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 95,
+            "Type": "bldr_Misc_WoodenCrate_5x",
+            "DisplayName": "bldr_Misc_WoodenCrate_5x",
+            "Position": [
+                4524.71044921875,
+                225.6864776611328,
+                10387.6455078125
+            ],
+            "Orientation": [
+                0.0,
+                1.0981669425964356,
+                3.0218710899353029
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 96,
+            "Type": "bldr_Misc_DragonTeeth_Multiple_RedWhite",
+            "DisplayName": "bldr_Misc_DragonTeeth_Multiple_RedWhite",
+            "Position": [
+                4540.3818359375,
+                224.99266052246095,
+                10407.021484375
+            ],
+            "Orientation": [
+                -98.99993896484375,
+                1.630717158317566,
+                -2.5763285160064699
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 97,
+            "Type": "bldr_Misc_DragonTeeth_Multiple_RedWhite",
+            "DisplayName": "bldr_Misc_DragonTeeth_Multiple_RedWhite",
+            "Position": [
+                4517.6630859375,
+                225.6204071044922,
+                10384.4609375
+            ],
+            "Orientation": [
+                -53.999996185302737,
+                3.239665985107422,
+                1.4516459703445435
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 98,
+            "Type": "bldr_Misc_DragonTeeth_Single_RedWhite",
+            "DisplayName": "bldr_Misc_DragonTeeth_Single_RedWhite",
+            "Position": [
+                4531.685546875,
+                225.62551879882813,
+                10417.880859375
+            ],
+            "Orientation": [
+                0.0,
+                1.1906300783157349,
+                2.015554666519165
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 99,
+            "Type": "bldr_ShellCrater1",
+            "DisplayName": "bldr_ShellCrater1",
+            "Position": [
+                4523.60205078125,
+                224.890869140625,
+                10369.748046875
+            ],
+            "Orientation": [
+                0.0,
+                1.0065741539001465,
+                3.2047760486602785
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 100,
+            "Type": "bldr_Target_Concrete2",
+            "DisplayName": "bldr_Target_Concrete2",
+            "Position": [
+                4486.65966796875,
+                227.86729431152345,
+                10337.4892578125
+            ],
+            "Orientation": [
+                -125.99996185302735,
+                2.5484251976013185,
+                -2.8714652061462404
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 101,
+            "Type": "bldr_Target_Concrete_Ramp",
+            "DisplayName": "bldr_Target_Concrete_Ramp",
+            "Position": [
+                4494.48046875,
+                228.0992889404297,
+                10395.1767578125
+            ],
+            "Orientation": [
+                -135.00001525878907,
+                -0.3228049576282501,
+                -4.978633880615234
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 102,
+            "Type": "bldr_Target_Support",
+            "DisplayName": "bldr_Target_Support",
+            "Position": [
+                4507.0986328125,
+                226.36038208007813,
+                10337.6572265625
+            ],
+            "Orientation": [
+                99.00000762939453,
+                -3.5439345836639406,
+                0.17909003794193269
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 103,
+            "Type": "bldr_ShellCrater2_Decal",
+            "DisplayName": "bldr_ShellCrater2_Decal",
+            "Position": [
+                4526.09716796875,
+                228.29412841796876,
+                10369.728515625
+            ],
+            "Orientation": [
+                0.0,
+                1.0065741539001465,
+                3.204636573791504
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 104,
+            "Type": "bldr_Smokestack_Big_Ruin_Up",
+            "DisplayName": "bldr_Smokestack_Big_Ruin_Up",
+            "Position": [
+                5091.478515625,
+                338.8479919433594,
+                9452.2431640625
+            ],
+            "Orientation": [
+                0.0,
+                1.5545986890792847,
+                3.4780611991882326
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 106,
+            "Type": "bldr_Farm_SilageStorage",
+            "DisplayName": "bldr_Farm_SilageStorage",
+            "Position": [
+                4451.1640625,
+                232.48329162597657,
+                10409.68359375
+            ],
+            "Orientation": [
+                0.0,
+                4.223751068115234,
+                9.954339981079102
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 107,
+            "Type": "bldr_Misc_CinderBlocks",
+            "DisplayName": "bldr_Misc_CinderBlocks",
+            "Position": [
+                4556.912109375,
+                223.99270629882813,
+                10389.1259765625
+            ],
+            "Orientation": [
+                -44.9999885559082,
+                3.0394954681396486,
+                -0.19418488442897798
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 108,
+            "Type": "bldr_Misc_SurveyMarker_Rod",
+            "DisplayName": "bldr_Misc_SurveyMarker_Rod",
+            "Position": [
+                4565.462890625,
+                222.56640625,
+                10374.19140625
+            ],
+            "Orientation": [
+                0.0,
+                2.196021795272827,
+                2.1059436798095705
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 109,
+            "Type": "bldr_Misc_TirePile_Large",
+            "DisplayName": "bldr_Misc_TirePile_Large",
+            "Position": [
+                4544.77392578125,
+                223.9611358642578,
+                10381.93359375
+            ],
+            "Orientation": [
+                -35.99999237060547,
+                3.032435894012451,
+                0.28413742780685427
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 110,
+            "Type": "bldr_Misc_Transformer",
+            "DisplayName": "bldr_Misc_Transformer",
+            "Position": [
+                4555.171875,
+                223.89471435546876,
+                10370.5302734375
+            ],
+            "Orientation": [
+                -44.99998474121094,
+                3.0394954681396486,
+                -0.19418467581272126
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 111,
+            "Type": "bldr_DieselPowerPlant_Cooling",
+            "DisplayName": "bldr_DieselPowerPlant_Cooling",
+            "Position": [
+                4470.5771484375,
+                231.4929962158203,
+                10361.642578125
+            ],
+            "Orientation": [
+                -45.00010681152344,
+                3.487056016921997,
+                2.1987617015838625
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 112,
+            "Type": "bldr_wreck_hmmwv",
+            "DisplayName": "bldr_wreck_hmmwv",
+            "Position": [
+                4487.56787109375,
+                227.6424560546875,
+                10364.9921875
+            ],
+            "Orientation": [
+                0.0,
+                1.0061942338943482,
+                3.5700695514678957
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 113,
+            "Type": "bldr_wreck_hmmwv",
+            "DisplayName": "bldr_wreck_hmmwv",
+            "Position": [
+                4473.75439453125,
+                229.08932495117188,
+                10378.974609375
+            ],
+            "Orientation": [
+                0.0,
+                2.88905930519104,
+                9.256941795349121
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 114,
+            "Type": "bldr_wreck_powgen",
+            "DisplayName": "bldr_wreck_powgen",
+            "Position": [
+                4506.7822265625,
+                227.55809020996095,
+                10370.16015625
+            ],
+            "Orientation": [
+                0.0,
+                1.0065741539001465,
+                3.2047760486602785
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 115,
+            "Type": "bldr_wreck_s120_red",
+            "DisplayName": "bldr_wreck_s120_red",
+            "Position": [
+                4583.826171875,
+                221.2392578125,
+                10344.8603515625
+            ],
+            "Orientation": [
+                0.0,
+                2.19614839553833,
+                2.0145063400268556
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 116,
+            "Type": "bldr_Construction_Hopper",
+            "DisplayName": "bldr_Construction_Hopper",
+            "Position": [
+                4828.32861328125,
+                215.6377716064453,
+                10201.2041015625
+            ],
+            "Orientation": [
+                54.000038146972659,
+                -1.7035126686096192,
+                2.483558416366577
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 117,
+            "Type": "bldr_DieselPowerPlant_Transformer",
+            "DisplayName": "bldr_DieselPowerPlant_Transformer",
+            "Position": [
+                4549.57958984375,
+                224.996826171875,
+                10368.134765625
+            ],
+            "Orientation": [
+                -35.99995803833008,
+                2.8996896743774416,
+                4.776230812072754
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 118,
+            "Type": "bldr_wreck_digger",
+            "DisplayName": "bldr_wreck_digger",
+            "Position": [
+                4654.6767578125,
+                218.02586364746095,
+                10214.4619140625
+            ],
+            "Orientation": [
+                0.0,
+                1.374178171157837,
+                1.2828357219696046
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 119,
+            "Type": "bldr_ship_medium_front",
+            "DisplayName": "bldr_ship_medium_front",
+            "Position": [
+                5422.939453125,
+                188.74075317382813,
+                9813.271484375
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -1.2832050323486329
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 120,
+            "Type": "bldr_Ruin_HouseBlock_Half",
+            "DisplayName": "bldr_Ruin_HouseBlock_Half",
+            "Position": [
+                5280.22021484375,
+                182.03700256347657,
+                9691.23046875
+            ],
+            "Orientation": [
+                -36.000099182128909,
+                1.2323800325393677,
+                0.9169410467147827
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 121,
+            "Type": "bldr_Ruin_HouseBlock_Half",
+            "DisplayName": "bldr_Ruin_HouseBlock_Half",
+            "Position": [
+                5244.10009765625,
+                183.947998046875,
+                9673.9697265625
+            ],
+            "Orientation": [
+                -126.0,
+                0.9034280180931091,
+                -1.562710165977478
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 122,
+            "Type": "bldr_sidewalk1_end",
+            "DisplayName": "bldr_sidewalk1_end",
+            "Position": [
+                5162.47265625,
+                178.3594970703125,
+                9654.216796875
+            ],
+            "Orientation": [
+                -35.9998664855957,
+                1.8854827880859376,
+                0.10196629911661148
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 123,
+            "Type": "bldr_sidewalk2_5m",
+            "DisplayName": "bldr_sidewalk2_5m",
+            "Position": [
+                5160.92333984375,
+                178.48524475097657,
+                9658.076171875
+            ],
+            "Orientation": [
+                -125.99999237060547,
+                0.9236167669296265,
+                -1.6905616521835328
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 124,
+            "Type": "bldr_sidewalk2_5m",
+            "DisplayName": "bldr_sidewalk2_5m",
+            "Position": [
+                5165.0263671875,
+                178.38818359375,
+                9661.033203125
+            ],
+            "Orientation": [
+                -126.0000228881836,
+                1.583053469657898,
+                -1.7166697978973389
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 125,
+            "Type": "bldr_sidewalk2_5m",
+            "DisplayName": "bldr_sidewalk2_5m",
+            "Position": [
+                5169.10888671875,
+                178.24557495117188,
+                9663.98828125
+            ],
+            "Orientation": [
+                -126.0,
+                1.710646629333496,
+                -1.6964300870895386
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 129,
+            "Type": "bldr_sidewalk2_5m",
+            "DisplayName": "bldr_sidewalk2_5m",
+            "Position": [
+                5173.046875,
+                178.11769104003907,
+                9666.8076171875
+            ],
+            "Orientation": [
+                55.02729797363281,
+                -1.1037899255752564,
+                1.7786420583724976
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 130,
+            "Type": "bldr_sidewalk2_5m",
+            "DisplayName": "bldr_sidewalk2_5m",
+            "Position": [
+                5176.943359375,
+                178.02862548828126,
+                9669.62109375
+            ],
+            "Orientation": [
+                54.03059005737305,
+                -1.0187184810638428,
+                1.8717124462127686
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 131,
+            "Type": "bldr_sidewalk2_5m",
+            "DisplayName": "bldr_sidewalk2_5m",
+            "Position": [
+                5180.86083984375,
+                177.94093322753907,
+                9672.3681640625
+            ],
+            "Orientation": [
+                54.029205322265628,
+                -1.018868327140808,
+                1.8717060089111329
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 132,
+            "Type": "bldr_Dead_MassGrave",
+            "DisplayName": "bldr_Dead_MassGrave",
+            "Position": [
+                5184.2265625,
+                178.30703735351563,
+                9665.32421875
+            ],
+            "Orientation": [
+                0.0,
+                0.7328890562057495,
+                1.924317479133606
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 133,
+            "Type": "bldr_Cemetery_Tombstone5_damaged",
+            "DisplayName": "bldr_Cemetery_Tombstone5_damaged",
+            "Position": [
+                5170.77197265625,
+                178.768310546875,
+                9678.2216796875
+            ],
+            "Orientation": [
+                -54.000038146972659,
+                1.9864076375961304,
+                0.537845253944397
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 134,
+            "Type": "bldr_Ruin_Church",
+            "DisplayName": "bldr_Ruin_Church",
+            "Position": [
+                5046.81982421875,
+                193.91700744628907,
+                9676.599609375
+            ],
+            "Orientation": [
+                -45.0,
+                3.5977096557617189,
+                6.058478832244873
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 135,
+            "Type": "bldr_Ruin_Chimney",
+            "DisplayName": "bldr_Ruin_Chimney",
+            "Position": [
+                5015.1005859375,
+                192.6427001953125,
+                9660.6826171875
+            ],
+            "Orientation": [
+                -45.0,
+                2.974459171295166,
+                1.165024757385254
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 136,
+            "Type": "bldr_Rubble_Concrete3",
+            "DisplayName": "bldr_Rubble_Concrete3",
+            "Position": [
+                5058.48876953125,
+                184.4898223876953,
+                9664.2275390625
+            ],
+            "Orientation": [
+                0.0,
+                -1.546518087387085,
+                6.840266704559326
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 137,
+            "Type": "bldr_Rubble_Concrete2",
+            "DisplayName": "bldr_Rubble_Concrete2",
+            "Position": [
+                5057.609375,
+                186.1520233154297,
+                9621.013671875
+            ],
+            "Orientation": [
+                0.0,
+                1.1899974346160889,
+                2.7475223541259767
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 138,
+            "Type": "bldr_Ruin_HouseBlock_Total",
+            "DisplayName": "bldr_Ruin_HouseBlock_Total",
+            "Position": [
+                5093.40625,
+                186.22149658203126,
+                9594.59765625
+            ],
+            "Orientation": [
+                -36.00001525878906,
+                2.3632469177246095,
+                5.2791008949279789
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 139,
+            "Type": "bldr_Ruin_Corner1",
+            "DisplayName": "bldr_Ruin_Corner1",
+            "Position": [
+                5077.962890625,
+                185.0209503173828,
+                9570.05078125
+            ],
+            "Orientation": [
+                -35.99997329711914,
+                3.4649507999420168,
+                3.6899516582489015
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 140,
+            "Type": "bldr_Ruin_DoorWall",
+            "DisplayName": "bldr_Ruin_DoorWall",
+            "Position": [
+                5074.07177734375,
+                184.7252960205078,
+                9540.2265625
+            ],
+            "Orientation": [
+                -45.0,
+                3.358916997909546,
+                2.069795846939087
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 141,
+            "Type": "bldr_Rubble_Metal2",
+            "DisplayName": "bldr_Rubble_Metal2",
+            "Position": [
+                5066.509765625,
+                183.32899475097657,
+                9547.8896484375
+            ],
+            "Orientation": [
+                0.0,
+                1.188289999961853,
+                4.117270469665527
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 142,
+            "Type": "bldr_Ruin_HouseBlock_Corner_Total",
+            "DisplayName": "bldr_Ruin_HouseBlock_Corner_Total",
+            "Position": [
+                5154.4599609375,
+                178.00799560546876,
+                9487.5595703125
+            ],
+            "Orientation": [
+                36.0,
+                -0.6644120216369629,
+                3.2519500255584719
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 143,
+            "Type": "bldr_Misc_WoodPile1",
+            "DisplayName": "bldr_Misc_WoodPile1",
+            "Position": [
+                5454.9150390625,
+                179.2583770751953,
+                9433.552734375
+            ],
+            "Orientation": [
+                0.0,
+                -1.9221997261047364,
+                -2.0148537158966066
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 144,
+            "Type": "bldr_Misc_WoodReserve",
+            "DisplayName": "bldr_Misc_WoodReserve",
+            "Position": [
+                5131.5244140625,
+                179.92127990722657,
+                9627.9697265625
+            ],
+            "Orientation": [
+                44.999996185302737,
+                -0.9715456962585449,
+                1.8789710998535157
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 145,
+            "Type": "bldr_Black",
+            "DisplayName": "bldr_Black",
+            "Position": [
+                5836.88623046875,
+                234.46292114257813,
+                9226.841796875
+            ],
+            "Orientation": [
+                -98.99992370605469,
+                5.261490821838379,
+                29.593278884887697
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 146,
+            "Type": "bldr_Misc_StadiumBenches",
+            "DisplayName": "bldr_Misc_StadiumBenches",
+            "Position": [
+                5059.095703125,
+                183.846435546875,
+                9697.8310546875
+            ],
+            "Orientation": [
+                -45.0,
+                3.2269468307495119,
+                3.3614704608917238
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 147,
+            "Type": "bldr_Misc_StadiumBenches",
+            "DisplayName": "bldr_Misc_StadiumBenches",
+            "Position": [
+                5063.78076171875,
+                183.49632263183595,
+                9703.40625
+            ],
+            "Orientation": [
+                -44.999996185302737,
+                2.6506803035736086,
+                2.394439220428467
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 148,
+            "Type": "bldr_Misc_Boogieman",
+            "DisplayName": "bldr_Misc_Boogieman",
+            "Position": [
+                5075.9140625,
+                182.76458740234376,
+                9680.349609375
+            ],
+            "Orientation": [
+                -35.9999885559082,
+                2.170445442199707,
+                2.834144115447998
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 149,
+            "Type": "bldr_Misc_Football_Line",
+            "DisplayName": "bldr_Misc_Football_Line",
+            "Position": [
+                5074.2822265625,
+                183.2869873046875,
+                9668.8095703125
+            ],
+            "Orientation": [
+                -143.99996948242188,
+                5.397913455963135,
+                -4.05146598815918
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 150,
+            "Type": "bldr_Misc_DogHouse",
+            "DisplayName": "bldr_Misc_DogHouse",
+            "Position": [
+                5068.7919921875,
+                183.19564819335938,
+                9704.546875
+            ],
+            "Orientation": [
+                0.0,
+                -1.0976698398590088,
+                3.478705406188965
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 151,
+            "Type": "bldr_rail_bridge_40",
+            "DisplayName": "bldr_rail_bridge_40",
+            "Position": [
+                5170.0185546875,
+                173.292724609375,
+                9313.3984375
+            ],
+            "Orientation": [
+                116.9999771118164,
+                2.3836312294006349,
+                3.577247381210327
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 152,
+            "Type": "bldr_rail_bridge_15_end",
+            "DisplayName": "bldr_rail_bridge_15_end",
+            "Position": [
+                5246.8662109375,
+                181.73841857910157,
+                9346.685546875
+            ],
+            "Orientation": [
+                -81.00003051757813,
+                0.2285955846309662,
+                0.3146377205848694
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 153,
+            "Type": "bldr_rail_bridge_40",
+            "DisplayName": "bldr_rail_bridge_40",
+            "Position": [
+                5152.88427734375,
+                175.0908203125,
+                9287.439453125
+            ],
+            "Orientation": [
+                125.99993133544922,
+                0.7937133312225342,
+                -2.0280187129974367
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        }
+    ],
+    "DeletedObjects": []
+}

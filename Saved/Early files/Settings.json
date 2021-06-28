@@ -1,0 +1,11 @@
+{
+    "ViewDistance": 8000.0,
+    "ObjectViewDistance": 1500.0,
+    "AutoSaveTimer": 240,
+    "LockCameraDuringDialogs": 1,
+    "ShowBoundingBoxes": 1,
+    "BrushedObjectMarkers": 0,
+    "DebugMode": 0,
+    "EditorProtoFile": "$profile:/Editor/MapGroupProto.xml",
+    "EditorBrushFile": "$profile:/Editor/EditorBrushes.xml"
+}

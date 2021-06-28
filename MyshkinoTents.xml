@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<events>
+	<event name="Land_Mil_Tent_Big3">
+		<pos x="1178.91" y="147.4" z="6625.17" a="180"/>
+	</event>
+	<event name="Land_Mil_Tent_Big2_5">
+		<pos x="1217.48" y="152.687" z="6562.76" a="180"/>
+	</event>
+	<event name="Land_Mil_Tent_Big3">
+		<pos x="1208.18" y="151.045" z="6548.57" a="181.429"/>
+	</event>
+	<event name="Land_Mil_Tent_Big2_1">
+		<pos x="1223.91" y="152.646" z="6549.19" a="182.452"/>
+	</event>
+	<event name="Land_Mil_Tent_Big1_3">
+		<pos x="1228.37" y="149.573" z="6531.06" a="182.307"/>
+	</event>
+	<event name="Land_Mil_Fortified_Nest_Big">
+		<pos x="1231.14" y="149.695" z="6505.95" a="182.087"/>
+	</event>
+	<event name="Land_Mil_Fortified_Nest_Big">
+		<pos x="1245.11" y="156" z="6591.93" a="177.719"/>
+	</event>
+	<event name="Land_Bunker1_Double">
+		<pos x="1136.37" y="147.608" z="6706.24" a="178.236"/>
+	</event>
+	<event name="Land_Bunker1_Right">
+		<pos x="1040.42" y="162.968" z="6577.1" a="179.729"/>
+	</event>
+	<event name="Land_Bunker1_Left">
+		<pos x="1028.04" y="163.422" z="6563.35" a="180.6"/>
+	</event>
+	<event name="Land_Slum_House5">
+		<pos x="1113.56" y="150.693" z="6575.81" a="177.01"/>
+	</event>
+	<event name="Land_Mil_ControlTower">
+		<pos x="1277.13" y="156.922" z="6391.62" a="179.694"/>
+	</event>
+	<event name="Land_Mil_ControlTower">
+		<pos x="1275.96" y="157.02" z="6370.69" a="179.472"/>
+	</event>
+	<event name="Land_Mil_GuardBox_Smooth">
+		<pos x="1274.92" y="150.753" z="6386.56" a="180"/>
+	</event>
+	<event name="Land_Bunker2_Left">
+		<pos x="1277.39" y="150.565" z="6381.73" a="179.94"/>
+	</event>
+	<event name="Land_Workshop_FuelStation">
+		<pos x="1169.44" y="152.847" z="6233.56" a="179.618"/>
+	</event>
+	<event name="Land_Mil_GuardBox_Smooth">
+		<pos x="1182.13" y="151.005" z="6246.53" a="185.927"/>
+	</event>
+	<event name="Land_Mil_GuardBox_Brown">
+		<pos x="1134.13" y="155.66" z="6272.19" a="177.408"/>
+	</event>
+	<event name="Land_BusStop_Village2">
+		<pos x="1272.5" y="150.82" z="6330.85" a="180"/>
+	</event>
+	<event name="Land_Mil_GuardHouse3">
+		<pos x="1271.15" y="151.361" z="6350.06" a="180.075"/>
+	</event>
+	<event name="Land_Shed_Closed2">
+		<pos x="886.219" y="182.903" z="7680.01" a="180"/>
+	</event>
+	<event name="Land_Garage_Medium">
+		<pos x="957.613" y="183.027" z="7615.7" a="180"/>
+	</event>
+	<event name="Land_Farm_Hopper2">
+		<pos x="911.45" y="185.579" z="7555.92" a="180.377"/>
+	</event>
+	<event name="Land_Garage_Medium">
+		<pos x="926.988" y="183.027" z="7556.04" a="180"/>
+	</event>
+	<event name="Land_Ruin_Smokestack_Metal">
+		<pos x="883.639" y="183" z="7703.92" a="181.393"/>
+	</event>
+	<event name="Land_Ruin_Mil_GuardBox_Smooth">
+		<pos x="885.279" y="181.244" z="7713.21" a="180.148"/>
+	</event>
+	<event name="Land_Ruin_Shed_Closed">
+		<pos x="967.72" y="181.277" z="7543.44" a="179.489"/>
+	</event>
+	<event name="Land_Ruin_HouseSmall2_NoIvy">
+		<pos x="1034.42" y="183.854" z="7452.84" a="183.958"/>
+	</event>
+	<event name="Land_Ruin_HouseSmall2">
+		<pos x="1032.95" y="184.566" z="7468.55" a="180.495"/>
+	</event>
+	<event name="Land_Ruin_HouseSmall1_Half">
+		<pos x="1034.56" y="176.464" z="7436.03" a="184.527"/>
+	</event>
+	<event name="Land_Ruin_HouseSmall2">
+		<pos x="1024.16" y="184.853" z="7459.09" a="183.502"/>
+	</event>
+	<event name="Land_Castle_Bastion2">
+		<pos x="996.469" y="176.677" z="7396.02" a="180.411"/>
+	</event>
+	<event name="Land_Ruin_HouseBig1_NoIvy_Half">
+		<pos x="1153.79" y="185.818" z="7179.24" a="181.164"/>
+	</event>
+	<event name="Land_Ruin_House_2W03">
+		<pos x="1195.3" y="185.979" z="7215.84" a="180.109"/>
+	</event>
+	<event name="Land_Ruin_HouseBig2_NoIvy">
+		<pos x="1176.33" y="189.419" z="7182.65" a="180.917"/>
+	</event>
+	<event name="Land_Ruin_HouseSmall1_NoIvy">
+		<pos x="1214.46" y="188.361" z="7187.47" a="180"/>
+	</event>
+	<event name="Land_Ruin_HouseSmall1_NoIvy">
+		<pos x="1218.21" y="187.713" z="7162.48" a="182.33"/>
+	</event>
+	<event name="Land_Ruin_HouseBig3_NoIvy">
+		<pos x="1089.78" y="184.553" z="7221.62" a="181.965"/>
+	</event>
+	<event name="Land_Ruin_HouseSmall1_NoIvy">
+		<pos x="1200.68" y="188.19" z="7198.9" a="179.464"/>
+	</event>
+	<event name="Land_Ruin_HouseBig3_NoIvy_Half">
+		<pos x="1199.58" y="187.816" z="7236.32" a="180"/>
+	</event>
+	<event name="Land_Ruin_HouseSmall1_NoIvy">
+		<pos x="1180.44" y="188.119" z="7287.35" a="180.076"/>
+	</event>
+	<event name="Land_Ruin_HouseBig2_NoIvy_Half">
+		<pos x="1157.84" y="188.26" z="7250.22" a="180"/>
+	</event>
+	<event name="Land_Ruin_HouseBig2_NoIvy_Half">
+		<pos x="1165.62" y="188.26" z="7201.49" a="180"/>
+	</event>
+	<event name="Land_Ruin_Mil_ControlTower">
+		<pos x="1176.57" y="187.136" z="7197.55" a="180"/>
+	</event>
+	<event name="Land_HouseBlock_1F1">
+		<pos x="1283.24" y="154.69" z="6306.57" a="177.923"/>
+	</event>
+	<event name="Land_Tisy_RadarB_Antenna">
+		<pos x="1395.74" y="159.504" z="6529.54" a="182.056"/>
+	</event>
+	<event name="AK74_Green">
+		<pos x="1171.6" y="185.76" z="7220.78" a="178.5"/>
+	</event>
+	<event name="bldr_M4A1">
+		<pos x="1171.72" y="185.771" z="7220.81" a="180"/>
+	</event>
+	<event name="ASVAL">
+		<pos x="1171.09" y="185.8" z="7220.82" a="180"/>
+	</event>
+	<event name="Mosin9130">
+		<pos x="1171.63" y="185.75" z="7221.34" a="180"/>
+	</event>
+	<event name="Scout_Chernarus">
+		<pos x="1171.37" y="185.82" z="7221.3" a="180"/>
+	</event>
+	<event name="SKS">
+		<pos x="1171.29" y="185.745" z="7221.12" a="180"/>
+	</event>
+	<event name="AK101_Green">
+		<pos x="1171.88" y="185.78" z="7220.76" a="180"/>
+	</event>
+	<event name="Land_Ruin_HouseBig1_NoIvy">
+		<pos x="1278.09" y="210.52" z="7358.96" a="176.197"/>
+	</event>
+	<event name="Land_Ruin_House_2W04">
+		<pos x="1289.97" y="208.64" z="7356.94" a="181.152"/>
+	</event>
+	<event name="Land_Ruin_House_2B02">
+		<pos x="1274.89" y="208.768" z="7381.29" a="173.262"/>
+	</event>
+	<event name="Land_Ruin_House_1W07">
+		<pos x="1279.5" y="211.043" z="7403.9" a="171.824"/>
+	</event>
+	<event name="Land_Ruin_House_2B02">
+		<pos x="1236.86" y="201.091" z="7378.71" a="182.943"/>
+	</event>
+	<event name="Land_Ruin_HouseBig1_NoIvy">
+		<pos x="1251.91" y="207.108" z="7391.63" a="189.485"/>
+	</event>
+	<event name="Land_Ruin_HouseBig3">
+		<pos x="1213.4" y="209.547" z="7462.42" a="181.983"/>
+	</event>
+	<event name="Land_Ruin_HouseBig3_Half">
+		<pos x="1215.06" y="208.084" z="7476" a="185.514"/>
+	</event>
+	<event name="Land_Ruin_Slum_House3">
+		<pos x="1286.75" y="207.109" z="7344.27" a="185.129"/>
+	</event>
+	<event name="Land_Ruin_Highway_Pillar1_Garage">
+		<pos x="1189.5" y="178.442" z="7084.42" a="180.45"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1106.52" y="189.711" z="7466.82" a="178.992"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1086.05" y="186.962" z="7463.48" a="179.858"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1087.75" y="187.11" z="7463.6" a="180.341"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1153.06" y="187.779" z="7311.16" a="179.371"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1152.86" y="188.15" z="7313.35" a="181.327"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1150.3" y="192.673" z="7340.47" a="183.842"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1149.9" y="192.383" z="7338.8" a="180.158"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1158.11" y="193.195" z="7340.3" a="179.512"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1152" y="195.351" z="7361.11" a="178.881"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1144.96" y="194.585" z="7365.19" a="177.083"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1140.68" y="193.571" z="7359.95" a="179.25"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1090.7" y="181.603" z="7324.22" a="178.753"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1092.47" y="181.875" z="7324.63" a="179.305"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1087.15" y="181.075" z="7323.39" a="178.974"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1090.14" y="182.225" z="7333.94" a="180.655"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1097.3" y="182.495" z="7323.51" a="181.461"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1087.03" y="181.41" z="7328.35" a="181.247"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1095.92" y="182.304" z="7323.78" a="178.981"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1082.98" y="184.959" z="7386.79" a="180.889"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1086.85" y="184.979" z="7380.48" a="180.429"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1091.42" y="185.733" z="7387.33" a="180.814"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1087.1" y="185.098" z="7382.48" a="180.047"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1088.28" y="185.414" z="7386.73" a="180.37"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1088.8" y="185.645" z="7391.03" a="179.908"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1089.3" y="185.529" z="7387.15" a="180.2"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1116.74" y="184.015" z="7301.32" a="179.084"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1116.77" y="185.269" z="7317.11" a="178.723"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1115.95" y="187.817" z="7349.29" a="179.786"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1113.08" y="188.492" z="7377.68" a="180.905"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1114.97" y="188.969" z="7388.98" a="180.953"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1110.88" y="188.439" z="7403.62" a="179.432"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1109.97" y="188.572" z="7409.88" a="179.135"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1109.36" y="188.933" z="7427.99" a="179.097"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1046.68" y="179.677" z="7341.8" a="179.666"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1057.94" y="181.195" z="7351.41" a="180.16"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1053.3" y="182.196" z="7368.63" a="180.222"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1065.36" y="183.3" z="7381.21" a="179.745"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1069.74" y="183.875" z="7391.59" a="180.835"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1074.82" y="184.82" z="7411.57" a="180.622"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1136.24" y="192.753" z="7401.28" a="181.02"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1128.55" y="190.945" z="7420.59" a="181.047"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1129.39" y="191.348" z="7436.29" a="181.211"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1139.12" y="192.625" z="7445.58" a="180.837"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1160.38" y="196.321" z="7390.76" a="180.49"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1168.69" y="196.892" z="7390.05" a="180.881"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1175.07" y="196.815" z="7371.42" a="180.109"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1194.36" y="194.881" z="7358.57" a="179.961"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1199.74" y="192.459" z="7339.33" a="179.753"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1199" y="191.828" z="7334.72" a="181.566"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1181.94" y="190.031" z="7321.61" a="179.587"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1110.48" y="182.638" z="7278.35" a="178.337"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1085.41" y="180.686" z="7298.01" a="180.447"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1078.72" y="179.984" z="7299.26" a="179.133"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1065.71" y="178.408" z="7299.35" a="179.165"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1045.85" y="175.776" z="7303.73" a="180.838"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1033.32" y="174.625" z="7306.57" a="180.969"/>
+	</event>
+	<event name="ExplosionTest">
+		<pos x="1043.26" y="179.206" z="7397.04" a="181.008"/>
+	</event>
+</events>

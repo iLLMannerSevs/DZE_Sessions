@@ -1,0 +1,2072 @@
+{
+    "MapName": "ChernarusPlus",
+    "CameraPosition": [
+        1085.8994140625,
+        281.281982421875,
+        7487.3896484375
+    ],
+    "EditorObjects": [
+        {
+            "Type": "Land_Mil_Tent_Big3",
+            "DisplayName": "Land_Mil_Tent_Big3",
+            "Position": [
+                1178.9100341796876,
+                147.39999389648438,
+                6625.169921875
+            ],
+            "Orientation": [
+                36.26179504394531,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Mil_Tent_Big2_5",
+            "DisplayName": "Land_Mil_Tent_Big2_5",
+            "Position": [
+                1217.47998046875,
+                152.68699645996095,
+                6562.759765625
+            ],
+            "Orientation": [
+                -27.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Mil_Tent_Big3",
+            "DisplayName": "Land_Mil_Tent_Big3",
+            "Position": [
+                1208.1800537109376,
+                151.0449981689453,
+                6548.56982421875
+            ],
+            "Orientation": [
+                63.00019454956055,
+                1.4286198616027833,
+                0.46886301040649416
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Mil_Tent_Big2_1",
+            "DisplayName": "Land_Mil_Tent_Big2_1",
+            "Position": [
+                1223.9139404296876,
+                152.6461944580078,
+                6549.18798828125
+            ],
+            "Orientation": [
+                72.00000762939453,
+                2.452500820159912,
+                3.369786262512207
+            ],
+            "Scale": 0.999117374420166,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Mil_Tent_Big1_3",
+            "DisplayName": "Land_Mil_Tent_Big1_3",
+            "Position": [
+                1228.369384765625,
+                149.57313537597657,
+                6531.060546875
+            ],
+            "Orientation": [
+                75.50001525878906,
+                2.306636333465576,
+                1.6100941896438599
+            ],
+            "Scale": 0.99959796667099,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Mil_Fortified_Nest_Big",
+            "DisplayName": "Land_Mil_Fortified_Nest_Big",
+            "Position": [
+                1231.1400146484376,
+                149.69500732421876,
+                6505.9501953125
+            ],
+            "Orientation": [
+                11.114799499511719,
+                2.087479829788208,
+                -1.9228699207305909
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Mil_Fortified_Nest_Big",
+            "DisplayName": "Land_Mil_Fortified_Nest_Big",
+            "Position": [
+                1245.1099853515626,
+                156.0,
+                6591.93017578125
+            ],
+            "Orientation": [
+                -109.48499298095703,
+                -2.2804996967315676,
+                0.6453659534454346
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Bunker1_Double",
+            "DisplayName": "Land_Bunker1_Double",
+            "Position": [
+                1136.3699951171876,
+                147.60800170898438,
+                6706.240234375
+            ],
+            "Orientation": [
+                18.000198364257814,
+                -1.7641898393630982,
+                -0.2521929442882538
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Bunker1_Right",
+            "DisplayName": "Land_Bunker1_Right",
+            "Position": [
+                1040.4200439453126,
+                162.96800231933595,
+                6577.10009765625
+            ],
+            "Orientation": [
+                130.0,
+                -0.2709709703922272,
+                -0.30958104133605959
+            ],
+            "Scale": 1.0000001192092896,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Bunker1_Left",
+            "DisplayName": "Land_Bunker1_Left",
+            "Position": [
+                1028.0400390625,
+                163.4219970703125,
+                6563.35009765625
+            ],
+            "Orientation": [
+                80.99999237060547,
+                0.5997359156608582,
+                0.36903294920921328
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Slum_House5",
+            "DisplayName": "Land_Slum_House5",
+            "Position": [
+                1113.56005859375,
+                150.6929931640625,
+                6575.81005859375
+            ],
+            "Orientation": [
+                161.99998474121095,
+                -2.9904897212982179,
+                0.4115709662437439
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Mil_ControlTower",
+            "DisplayName": "Land_Mil_ControlTower",
+            "Position": [
+                1277.1300048828126,
+                156.9219970703125,
+                6391.6201171875
+            ],
+            "Orientation": [
+                0.0,
+                -0.305635005235672,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Mil_ControlTower",
+            "DisplayName": "Land_Mil_ControlTower",
+            "Position": [
+                1275.9599609375,
+                157.02000427246095,
+                6370.68994140625
+            ],
+            "Orientation": [
+                6.499999523162842,
+                -0.5280709862709045,
+                -0.08364178985357285
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Mil_GuardBox_Smooth",
+            "DisplayName": "Land_Mil_GuardBox_Smooth",
+            "Position": [
+                1274.9200439453126,
+                150.7530059814453,
+                6386.56005859375
+            ],
+            "Orientation": [
+                -90.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Bunker2_Left",
+            "DisplayName": "Land_Bunker2_Left",
+            "Position": [
+                1277.3900146484376,
+                150.56500244140626,
+                6381.72998046875
+            ],
+            "Orientation": [
+                -80.99999237060547,
+                -0.059755194932222369,
+                0.37728697061538699
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Workshop_FuelStation",
+            "DisplayName": "Land_Workshop_FuelStation",
+            "Position": [
+                1169.43994140625,
+                152.8470001220703,
+                6233.56005859375
+            ],
+            "Orientation": [
+                89.99979400634766,
+                -0.3819809854030609,
+                0.0000013326965699889116
+            ],
+            "Scale": 0.9999924302101135,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Mil_GuardBox_Smooth",
+            "DisplayName": "Land_Mil_GuardBox_Smooth",
+            "Position": [
+                1182.1300048828126,
+                151.0050048828125,
+                6246.52978515625
+            ],
+            "Orientation": [
+                -125.99999237060547,
+                5.926769733428955,
+                -1.2315198183059693
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Mil_GuardBox_Brown",
+            "DisplayName": "Land_Mil_GuardBox_Brown",
+            "Position": [
+                1134.1300048828126,
+                155.66000366210938,
+                6272.18994140625
+            ],
+            "Orientation": [
+                87.0000991821289,
+                -2.592139959335327,
+                -0.22905896604061128
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_BusStop_Village2",
+            "DisplayName": "Land_BusStop_Village2",
+            "Position": [
+                1272.5,
+                150.82000732421876,
+                6330.85009765625
+            ],
+            "Orientation": [
+                72.00049591064453,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Mil_GuardHouse3",
+            "DisplayName": "Land_Mil_GuardHouse3",
+            "Position": [
+                1271.1500244140626,
+                151.36099243164063,
+                6350.06005859375
+            ],
+            "Orientation": [
+                8.999979019165039,
+                0.07541219145059586,
+                0.011944100260734558
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Shed_Closed2",
+            "DisplayName": "Land_Shed_Closed2",
+            "Position": [
+                886.218994140625,
+                182.9029998779297,
+                7680.009765625
+            ],
+            "Orientation": [
+                -101.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Garage_Medium",
+            "DisplayName": "Land_Garage_Medium",
+            "Position": [
+                957.6129760742188,
+                183.02699279785157,
+                7615.7001953125
+            ],
+            "Orientation": [
+                -10.499797821044922,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Farm_Hopper2",
+            "DisplayName": "Land_Farm_Hopper2",
+            "Position": [
+                911.4500122070313,
+                185.57899475097657,
+                7555.919921875
+            ],
+            "Orientation": [
+                -8.99998950958252,
+                0.3772749900817871,
+                -0.05975579470396042
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Garage_Medium",
+            "DisplayName": "Land_Garage_Medium",
+            "Position": [
+                926.9879760742188,
+                183.02699279785157,
+                7556.0400390625
+            ],
+            "Orientation": [
+                169.49998474121095,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Ruin_Smokestack_Metal",
+            "DisplayName": "Land_Ruin_Smokestack_Metal",
+            "Position": [
+                883.6389770507813,
+                183.0,
+                7703.919921875
+            ],
+            "Orientation": [
+                -18.0,
+                1.3927098512649537,
+                -2.3790996074676515
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Ruin_Mil_GuardBox_Smooth",
+            "DisplayName": "Land_Ruin_Mil_GuardBox_Smooth",
+            "Position": [
+                885.2789916992188,
+                181.24400329589845,
+                7713.2099609375
+            ],
+            "Orientation": [
+                80.99999237060547,
+                0.14771798253059388,
+                1.909540057182312
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Ruin_Shed_Closed",
+            "DisplayName": "Land_Ruin_Shed_Closed",
+            "Position": [
+                967.719970703125,
+                181.27699279785157,
+                7543.43994140625
+            ],
+            "Orientation": [
+                -72.00000762939453,
+                -0.5112640261650086,
+                2.5629994869232179
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Ruin_HouseSmall2_NoIvy",
+            "DisplayName": "Land_Ruin_HouseSmall2_NoIvy",
+            "Position": [
+                1034.4200439453126,
+                183.85400390625,
+                7452.83984375
+            ],
+            "Orientation": [
+                35.999900817871097,
+                3.9584994316101076,
+                2.6967899799346926
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Ruin_HouseSmall2",
+            "DisplayName": "Land_Ruin_HouseSmall2",
+            "Position": [
+                1032.949951171875,
+                184.5659942626953,
+                7468.5498046875
+            ],
+            "Orientation": [
+                35.99980545043945,
+                0.4947219789028168,
+                1.3979899883270264
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Ruin_HouseSmall1_Half",
+            "DisplayName": "Land_Ruin_HouseSmall1_Half",
+            "Position": [
+                1034.56005859375,
+                176.46400451660157,
+                7436.02978515625
+            ],
+            "Orientation": [
+                -54.0,
+                4.526639938354492,
+                -7.445209503173828
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Ruin_HouseSmall2",
+            "DisplayName": "Land_Ruin_HouseSmall2",
+            "Position": [
+                1024.1600341796876,
+                184.85299682617188,
+                7459.08984375
+            ],
+            "Orientation": [
+                -53.999996185302737,
+                3.501729726791382,
+                -0.937765896320343
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Castle_Bastion2",
+            "DisplayName": "Land_Castle_Bastion2",
+            "Position": [
+                996.468994140625,
+                176.677001953125,
+                7396.02001953125
+            ],
+            "Orientation": [
+                -18.0,
+                0.41050195693969729,
+                0.027298197150230409
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Ruin_HouseBig1_NoIvy_Half",
+            "DisplayName": "Land_Ruin_HouseBig1_NoIvy_Half",
+            "Position": [
+                1153.7900390625,
+                185.8179931640625,
+                7179.240234375
+            ],
+            "Orientation": [
+                -9.0,
+                1.1637399196624756,
+                -2.8887200355529787
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Ruin_House_2W03",
+            "DisplayName": "Land_Ruin_House_2W03",
+            "Position": [
+                1195.300048828125,
+                185.97900390625,
+                7215.83984375
+            ],
+            "Orientation": [
+                -88.25890350341797,
+                0.10912499576807022,
+                -0.29552796483039858
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Ruin_HouseBig2_NoIvy",
+            "DisplayName": "Land_Ruin_HouseBig2_NoIvy",
+            "Position": [
+                1176.3299560546876,
+                189.41900634765626,
+                7182.64990234375
+            ],
+            "Orientation": [
+                0.0,
+                0.9164969325065613,
+                -0.15280099213123322
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Ruin_HouseSmall1_NoIvy",
+            "DisplayName": "Land_Ruin_HouseSmall1_NoIvy",
+            "Position": [
+                1214.4599609375,
+                188.36099243164063,
+                7187.47021484375
+            ],
+            "Orientation": [
+                -7.999999523162842,
+                0.0,
+                -1.1457198858261109
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Ruin_HouseSmall1_NoIvy",
+            "DisplayName": "Land_Ruin_HouseSmall1_NoIvy",
+            "Position": [
+                1218.2099609375,
+                187.71299743652345,
+                7162.47998046875
+            ],
+            "Orientation": [
+                80.99999237060547,
+                2.3301401138305666,
+                3.0277297496795656
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Ruin_HouseBig3_NoIvy",
+            "DisplayName": "Land_Ruin_HouseBig3_NoIvy",
+            "Position": [
+                1089.780029296875,
+                184.55299377441407,
+                7221.6201171875
+            ],
+            "Orientation": [
+                161.99998474121095,
+                1.964709758758545,
+                4.328510284423828
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Ruin_HouseSmall1_NoIvy",
+            "DisplayName": "Land_Ruin_HouseSmall1_NoIvy",
+            "Position": [
+                1200.6800537109376,
+                188.19000244140626,
+                7198.89990234375
+            ],
+            "Orientation": [
+                174.49998474121095,
+                -0.5355939269065857,
+                1.0129399299621583
+            ],
+            "Scale": 1.0000001192092896,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Ruin_HouseBig3_NoIvy_Half",
+            "DisplayName": "Land_Ruin_HouseBig3_NoIvy_Half",
+            "Position": [
+                1199.5799560546876,
+                187.8159942626953,
+                7236.31982421875
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.30564001202583315
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Ruin_HouseSmall1_NoIvy",
+            "DisplayName": "Land_Ruin_HouseSmall1_NoIvy",
+            "Position": [
+                1180.43994140625,
+                188.11900329589845,
+                7287.35009765625
+            ],
+            "Orientation": [
+                0.0,
+                0.07633699476718903,
+                -1.1457198858261109
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Ruin_HouseBig2_NoIvy_Half",
+            "DisplayName": "Land_Ruin_HouseBig2_NoIvy_Half",
+            "Position": [
+                1157.8399658203126,
+                188.25999450683595,
+                7250.22021484375
+            ],
+            "Orientation": [
+                90.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Ruin_HouseBig2_NoIvy_Half",
+            "DisplayName": "Land_Ruin_HouseBig2_NoIvy_Half",
+            "Position": [
+                1165.6199951171876,
+                188.25999450683595,
+                7201.490234375
+            ],
+            "Orientation": [
+                90.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Ruin_Mil_ControlTower",
+            "DisplayName": "Land_Ruin_Mil_ControlTower",
+            "Position": [
+                1176.5699462890626,
+                187.13600158691407,
+                7197.5498046875
+            ],
+            "Orientation": [
+                90.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_HouseBlock_1F1",
+            "DisplayName": "Land_HouseBlock_1F1",
+            "Position": [
+                1283.239990234375,
+                154.69000244140626,
+                6306.56982421875
+            ],
+            "Orientation": [
+                -108.0,
+                -2.0769999027252199,
+                0.27392396330833437
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Tisy_RadarB_Antenna",
+            "DisplayName": "Land_Tisy_RadarB_Antenna",
+            "Position": [
+                1395.739990234375,
+                159.50399780273438,
+                6529.5400390625
+            ],
+            "Orientation": [
+                17.999797821044923,
+                2.0555896759033205,
+                -2.380319833755493
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 30
+        },
+        {
+            "Type": "AK74_Green",
+            "DisplayName": "AK74_Green",
+            "Position": [
+                1171.5999755859376,
+                185.75999450683595,
+                7220.77978515625
+            ],
+            "Orientation": [
+                -101.73199462890625,
+                -1.5,
+                102.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "bldr_M4A1",
+            "DisplayName": "bldr_M4A1",
+            "Position": [
+                1171.719970703125,
+                185.77099609375,
+                7220.81005859375
+            ],
+            "Orientation": [
+                -98.99998474121094,
+                0.0,
+                101.5
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "ASVAL",
+            "DisplayName": "ASVAL",
+            "Position": [
+                1171.0899658203126,
+                185.8000030517578,
+                7220.81982421875
+            ],
+            "Orientation": [
+                -89.9999008178711,
+                0.0,
+                91.5
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Mosin9130",
+            "DisplayName": "Mosin9130",
+            "Position": [
+                1171.6300048828126,
+                185.75,
+                7221.33984375
+            ],
+            "Orientation": [
+                -98.99998474121094,
+                0.0,
+                91.5
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Scout_Chernarus",
+            "DisplayName": "Scout_Chernarus",
+            "Position": [
+                1171.3699951171876,
+                185.82000732421876,
+                7221.2998046875
+            ],
+            "Orientation": [
+                -90.0,
+                0.0,
+                97.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "SKS",
+            "DisplayName": "SKS",
+            "Position": [
+                1171.2900390625,
+                185.7449951171875,
+                7221.1201171875
+            ],
+            "Orientation": [
+                -97.0,
+                0.0,
+                85.99999237060547
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "AK101_Green",
+            "DisplayName": "AK101_Green",
+            "Position": [
+                1171.8800048828126,
+                185.77999877929688,
+                7220.759765625
+            ],
+            "Orientation": [
+                -90.0,
+                0.0,
+                102.49999237060547
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Ruin_HouseBig1_NoIvy",
+            "DisplayName": "Land_Ruin_HouseBig1_NoIvy",
+            "Position": [
+                1278.0899658203126,
+                210.52000427246095,
+                7358.9599609375
+            ],
+            "Orientation": [
+                6.5,
+                -3.802799701690674,
+                -0.07618328928947449
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Ruin_House_2W04",
+            "DisplayName": "Land_Ruin_House_2W04",
+            "Position": [
+                1289.969970703125,
+                208.63999938964845,
+                7356.93994140625
+            ],
+            "Orientation": [
+                -79.49999237060547,
+                1.1515100002288819,
+                -6.82056999206543
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Ruin_House_2B02",
+            "DisplayName": "Land_Ruin_House_2B02",
+            "Position": [
+                1274.8900146484376,
+                208.76800537109376,
+                7381.2900390625
+            ],
+            "Orientation": [
+                -80.99999237060547,
+                -6.738119602203369,
+                -5.971599578857422
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Ruin_House_1W07",
+            "DisplayName": "Land_Ruin_House_1W07",
+            "Position": [
+                1279.5,
+                211.04299926757813,
+                7403.89990234375
+            ],
+            "Orientation": [
+                -90.0,
+                -8.17604923248291,
+                -2.266849994659424
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Ruin_House_2B02",
+            "DisplayName": "Land_Ruin_House_2B02",
+            "Position": [
+                1236.8599853515626,
+                201.09100341796876,
+                7378.7099609375
+            ],
+            "Orientation": [
+                7.500000476837158,
+                2.943469762802124,
+                -8.03378963470459
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Ruin_HouseBig1_NoIvy",
+            "DisplayName": "Land_Ruin_HouseBig1_NoIvy",
+            "Position": [
+                1251.9100341796876,
+                207.10800170898438,
+                7391.6298828125
+            ],
+            "Orientation": [
+                98.99998474121094,
+                9.484949111938477,
+                5.708489894866943
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Ruin_HouseBig3",
+            "DisplayName": "Land_Ruin_HouseBig3",
+            "Position": [
+                1213.4000244140626,
+                209.5469970703125,
+                7462.419921875
+            ],
+            "Orientation": [
+                0.0,
+                1.983449935913086,
+                -1.6028398275375367
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Ruin_HouseBig3_Half",
+            "DisplayName": "Land_Ruin_HouseBig3_Half",
+            "Position": [
+                1215.06005859375,
+                208.08399963378907,
+                7476.0
+            ],
+            "Orientation": [
+                89.9999008178711,
+                5.5139594078063969,
+                3.0384998321533205
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Ruin_Slum_House3",
+            "DisplayName": "Land_Ruin_Slum_House3",
+            "Position": [
+                1286.75,
+                207.10899353027345,
+                7344.27001953125
+            ],
+            "Orientation": [
+                8.999979019165039,
+                5.129169464111328,
+                -0.4168379306793213
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Ruin_Highway_Pillar1_Garage",
+            "DisplayName": "Land_Ruin_Highway_Pillar1_Garage",
+            "Position": [
+                1189.5,
+                178.44200134277345,
+                7084.419921875
+            ],
+            "Orientation": [
+                13.499798774719239,
+                0.45022299885749819,
+                -1.1387299299240113
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1106.52490234375,
+                189.71090698242188,
+                7466.81591796875
+            ],
+            "Orientation": [
+                12.02452564239502,
+                -1.0077036619186402,
+                1.3342276616867821e-8
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1086.0462646484376,
+                186.96214294433595,
+                7463.48193359375
+            ],
+            "Orientation": [
+                93.19343566894531,
+                -0.14230923354625703,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1087.7506103515626,
+                187.11032104492188,
+                7463.6044921875
+            ],
+            "Orientation": [
+                -133.42144775390626,
+                0.3412765860557556,
+                -1.3340449633858498e-8
+            ],
+            "Scale": 1.0,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1153.0589599609376,
+                187.7786102294922,
+                7311.158203125
+            ],
+            "Orientation": [
+                -142.74554443359376,
+                -0.6292694807052612,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1152.8560791015626,
+                188.1497039794922,
+                7313.3505859375
+            ],
+            "Orientation": [
+                -60.253692626953128,
+                1.3272570371627808,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1150.302001953125,
+                192.67335510253907,
+                7340.4697265625
+            ],
+            "Orientation": [
+                -141.9533233642578,
+                3.8422770500183107,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1149.9013671875,
+                192.3828125,
+                7338.80078125
+            ],
+            "Orientation": [
+                -44.214874267578128,
+                0.1581413894891739,
+                6.67013155819518e-9
+            ],
+            "Scale": 1.0,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1158.1083984375,
+                193.1951141357422,
+                7340.29638671875
+            ],
+            "Orientation": [
+                57.642059326171878,
+                -0.4884060323238373,
+                1.3340697435637594e-8
+            ],
+            "Scale": 1.0,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1152.0006103515626,
+                195.35076904296876,
+                7361.10546875
+            ],
+            "Orientation": [
+                -165.5054473876953,
+                -1.1194202899932862,
+                -2.6685517795499437e-8
+            ],
+            "Scale": 1.0,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1144.9642333984376,
+                194.58494567871095,
+                7365.18505859375
+            ],
+            "Orientation": [
+                -89.13809967041016,
+                -2.9166674613952638,
+                -3.339378995548259e-9
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1140.6817626953126,
+                193.57131958007813,
+                7359.95166015625
+            ],
+            "Orientation": [
+                -40.574195861816409,
+                -0.7500975131988525,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1090.69775390625,
+                181.6033935546875,
+                7324.22216796875
+            ],
+            "Orientation": [
+                56.48149871826172,
+                -1.2467873096466065,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1092.4661865234376,
+                181.8753662109375,
+                7324.62939453125
+            ],
+            "Orientation": [
+                44.323177337646487,
+                -0.6947707533836365,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1087.1524658203126,
+                181.07546997070313,
+                7323.38720703125
+            ],
+            "Orientation": [
+                18.993492126464845,
+                -1.026289701461792,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1090.1417236328126,
+                182.2246551513672,
+                7333.943359375
+            ],
+            "Orientation": [
+                169.98545837402345,
+                0.6546397805213928,
+                -1.3341083793250164e-8
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1097.2984619140626,
+                182.49501037597657,
+                7323.50732421875
+            ],
+            "Orientation": [
+                63.60056686401367,
+                1.461094617843628,
+                -5.337820851991637e-8
+            ],
+            "Scale": 1.0,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1087.030029296875,
+                181.41038513183595,
+                7328.3486328125
+            ],
+            "Orientation": [
+                -144.14369201660157,
+                1.2466243505477906,
+                5.3373483410723568e-8
+            ],
+            "Scale": 1.0,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1095.9229736328126,
+                182.30361938476563,
+                7323.7783203125
+            ],
+            "Orientation": [
+                124.53267669677735,
+                -1.0189656019210816,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1082.9757080078126,
+                184.95912170410157,
+                7386.7939453125
+            ],
+            "Orientation": [
+                -138.61029052734376,
+                0.8886532187461853,
+                5.3367269714499346e-8
+            ],
+            "Scale": 1.0,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1086.845458984375,
+                184.97869873046876,
+                7380.4833984375
+            ],
+            "Orientation": [
+                77.200439453125,
+                0.4292318522930145,
+                -6.670293206667566e-9
+            ],
+            "Scale": 1.0,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1091.424072265625,
+                185.73300170898438,
+                7387.33203125
+            ],
+            "Orientation": [
+                -8.912029266357422,
+                0.814274251461029,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1087.1015625,
+                185.09815979003907,
+                7382.4755859375
+            ],
+            "Orientation": [
+                -57.13810729980469,
+                0.046759627759456637,
+                1.667527116389067e-9
+            ],
+            "Scale": 1.0,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1088.2750244140626,
+                185.41421508789063,
+                7386.7265625
+            ],
+            "Orientation": [
+                109.48323059082031,
+                0.3698178827762604,
+                -0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1088.796142578125,
+                185.64520263671876,
+                7391.03076171875
+            ],
+            "Orientation": [
+                56.140411376953128,
+                -0.09226076304912567,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1089.302001953125,
+                185.52908325195313,
+                7387.1513671875
+            ],
+            "Orientation": [
+                51.588966369628909,
+                0.19953936338424684,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1116.7403564453126,
+                184.01498413085938,
+                7301.3203125
+            ],
+            "Orientation": [
+                -155.9152069091797,
+                -0.9155919551849365,
+                -0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1116.7724609375,
+                185.26856994628907,
+                7317.10986328125
+            ],
+            "Orientation": [
+                61.056968688964847,
+                -1.2765240669250489,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1115.953857421875,
+                187.81683349609376,
+                7349.2939453125
+            ],
+            "Orientation": [
+                -153.83816528320313,
+                -0.2136482447385788,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1113.084716796875,
+                188.49220275878907,
+                7377.6826171875
+            ],
+            "Orientation": [
+                83.56027221679688,
+                0.9054133296012878,
+                6.670939356467898e-9
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1114.9654541015626,
+                188.9686279296875,
+                7388.9833984375
+            ],
+            "Orientation": [
+                137.91494750976563,
+                0.9530658721923828,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1110.876708984375,
+                188.43905639648438,
+                7403.6201171875
+            ],
+            "Orientation": [
+                -157.103515625,
+                -0.5678128004074097,
+                1.3340867965894177e-8
+            ],
+            "Scale": 1.0,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1109.971435546875,
+                188.57150268554688,
+                7409.88330078125
+            ],
+            "Orientation": [
+                150.582275390625,
+                -0.8646946549415588,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1109.355712890625,
+                188.93255615234376,
+                7427.9873046875
+            ],
+            "Orientation": [
+                -144.06304931640626,
+                -0.9028689861297607,
+                2.6683739662303198e-8
+            ],
+            "Scale": 1.0,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1046.675537109375,
+                179.6772918701172,
+                7341.80322265625
+            ],
+            "Orientation": [
+                -137.94204711914063,
+                -0.3339569568634033,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1057.9366455078126,
+                181.19525146484376,
+                7351.41064453125
+            ],
+            "Orientation": [
+                -30.966415405273439,
+                0.1599428951740265,
+                1.33402648927472e-8
+            ],
+            "Scale": 1.0,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1053.3043212890626,
+                182.1962890625,
+                7368.63427734375
+            ],
+            "Orientation": [
+                167.5301513671875,
+                0.22235794365406037,
+                3.335078657684676e-9
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1065.3646240234376,
+                183.30035400390626,
+                7381.2119140625
+            ],
+            "Orientation": [
+                -50.39973449707031,
+                -0.25525638461112978,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1069.7357177734376,
+                183.87469482421876,
+                7391.58837890625
+            ],
+            "Orientation": [
+                125.28056335449219,
+                0.8350321650505066,
+                -2.668325826959972e-8
+            ],
+            "Scale": 1.0,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1074.817626953125,
+                184.81976318359376,
+                7411.57080078125
+            ],
+            "Orientation": [
+                23.528568267822267,
+                0.6221213936805725,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1128.5521240234376,
+                190.94471740722657,
+                7420.58544921875
+            ],
+            "Orientation": [
+                74.99274444580078,
+                1.0474703311920167,
+                2.668488363610777e-8
+            ],
+            "Scale": 1.0,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1129.3876953125,
+                191.3480682373047,
+                7436.294921875
+            ],
+            "Orientation": [
+                -15.575063705444336,
+                1.2114145755767823,
+                -2.668639176306442e-8
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1139.1170654296876,
+                192.62501525878907,
+                7445.5791015625
+            ],
+            "Orientation": [
+                -83.40303039550781,
+                0.8369929790496826,
+                6.670817676024399e-9
+            ],
+            "Scale": 1.0,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1160.382080078125,
+                196.32122802734376,
+                7390.7578125
+            ],
+            "Orientation": [
+                133.77220153808595,
+                0.49049660563468935,
+                -0.0
+            ],
+            "Scale": 1.0000001192092896,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1168.6917724609376,
+                196.8920135498047,
+                7390.0517578125
+            ],
+            "Orientation": [
+                -128.4503631591797,
+                0.8814882040023804,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1194.357421875,
+                194.8813018798828,
+                7358.57177734375
+            ],
+            "Orientation": [
+                10.825197219848633,
+                -0.03925637900829315,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1199.7415771484376,
+                192.45863342285157,
+                7339.3251953125
+            ],
+            "Orientation": [
+                -74.67720794677735,
+                -0.2471541464328766,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1199.002685546875,
+                191.8284454345703,
+                7334.7236328125
+            ],
+            "Orientation": [
+                21.372129440307618,
+                1.5656434297561646,
+                5.338078068461982e-8
+            ],
+            "Scale": 1.0,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1181.944580078125,
+                190.03146362304688,
+                7321.61328125
+            ],
+            "Orientation": [
+                -56.870697021484378,
+                -0.41266730427742007,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1110.4847412109376,
+                182.63775634765626,
+                7278.34814453125
+            ],
+            "Orientation": [
+                112.43833923339844,
+                -1.6632137298583985,
+                -0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1085.40576171875,
+                180.68600463867188,
+                7298.0078125
+            ],
+            "Orientation": [
+                -142.19482421875,
+                0.4465087652206421,
+                -1.334061838775824e-8
+            ],
+            "Scale": 1.0,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1078.717529296875,
+                179.98431396484376,
+                7299.26025390625
+            ],
+            "Orientation": [
+                19.445262908935548,
+                -0.8669336438179016,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1065.7115478515626,
+                178.4084014892578,
+                7299.3525390625
+            ],
+            "Orientation": [
+                148.4126434326172,
+                -0.8347511887550354,
+                2.668325826959972e-8
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1045.8516845703126,
+                175.77609252929688,
+                7303.73291015625
+            ],
+            "Orientation": [
+                17.163043975830079,
+                0.8378016352653503,
+                -2.6683277809524953e-8
+            ],
+            "Scale": 1.0,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1033.3248291015626,
+                174.6254119873047,
+                7306.5732421875
+            ],
+            "Orientation": [
+                28.88279151916504,
+                0.9685253500938416,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 8
+        },
+        {
+            "Type": "ExplosionTest",
+            "DisplayName": "ExplosionTest",
+            "Position": [
+                1043.2608642578126,
+                179.20620727539063,
+                7397.044921875
+            ],
+            "Orientation": [
+                -123.56046295166016,
+                1.0082093477249146,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 8
+        }
+    ],
+    "DeletedObjects": [
+        3437836,
+        151135250,
+        3437919,
+        3437796,
+        3437843,
+        3437881,
+        159523903,
+        3437787,
+        159523760,
+        3440824,
+        3437927,
+        159523915,
+        3437878,
+        3437835,
+        3437884,
+        3440827,
+        3437786,
+        3440808,
+        3437873,
+        3438014,
+        3440810,
+        159523907,
+        3437789,
+        3437916,
+        3437917,
+        3437837,
+        3440830,
+        3437926,
+        3440813,
+        3441783,
+        159523937,
+        159523756,
+        3437932,
+        3437914,
+        3437841,
+        3437930,
+        3440771,
+        159524444,
+        3437830,
+        159523868,
+        159523913,
+        159523750,
+        3353866,
+        3438016,
+        3440767,
+        159524448,
+        3437838,
+        3437928,
+        159523920,
+        159523763,
+        3437825,
+        159523971,
+        3437780,
+        159523962,
+        3437828,
+        159523880,
+        3437868,
+        3440789,
+        159523896,
+        159524447,
+        3437792,
+        159523743,
+        159523919,
+        159523862,
+        3437790,
+        159523748,
+        159523973,
+        3437797,
+        3437840,
+        159523928,
+        3438021,
+        3438013,
+        3437915,
+        3437829,
+        159523908,
+        159523758,
+        159523860,
+        3437842,
+        159523944,
+        159523734,
+        3437839,
+        159523933,
+        3437788,
+        3438010,
+        3437833,
+        3437877,
+        3437831,
+        3437883,
+        3440825,
+        3437924,
+        159523767,
+        3437779,
+        3437920,
+        3438022,
+        3441887,
+        159523917,
+        3437918,
+        3438020,
+        3440829,
+        3438005,
+        3437922,
+        3440794,
+        3438011,
+        3440826,
+        3437931,
+        159523732,
+        3438018,
+        3437791,
+        3437834,
+        159523914,
+        3437784,
+        159523749,
+        3437874,
+        3440768,
+        3440772,
+        3438009,
+        159523769,
+        159523972,
+        3437923,
+        3437879,
+        3440828,
+        3437826,
+        3437885,
+        3437921,
+        159523891,
+        159523744,
+        159523770,
+        159523863,
+        3437867,
+        159523871,
+        3438015,
+        3437875,
+        3437882,
+        3438012,
+        3437880,
+        3437793,
+        159523681,
+        3438006,
+        3437925,
+        159523730,
+        3440811,
+        3437869,
+        3437783,
+        3437782,
+        3437871,
+        159523857,
+        159523787,
+        159523942,
+        3437832,
+        3440790,
+        151135248,
+        3437872,
+        159523892,
+        3437781,
+        3437870,
+        159523865,
+        3437795,
+        159524555,
+        3438007,
+        3440769,
+        3437794,
+        3437785,
+        3440788,
+        159523909,
+        159524446,
+        3437827,
+        159523927,
+        3437876,
+        159523867,
+        3438023,
+        3437929,
+        159523953
+    ]
+}

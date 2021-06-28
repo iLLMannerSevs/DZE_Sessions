@@ -1,0 +1,470 @@
+{
+    "MapName": "ChernarusPlus",
+    "CameraPosition": [
+        8361.689453125,
+        318.81292724609377,
+        5999.91259765625
+    ],
+    "EditorObjects": [
+        {
+            "m_Id": 3,
+            "Type": "ToxicCase",
+            "DisplayName": "ToxicCase",
+            "Position": [
+                8373.6552734375,
+                292.4984130859375,
+                5983.166015625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 4,
+            "Type": "ToxicCase",
+            "DisplayName": "ToxicCase",
+            "Position": [
+                8371.8017578125,
+                292.4995422363281,
+                5982.4052734375
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 5,
+            "Type": "ToxicCure",
+            "DisplayName": "ToxicCure",
+            "Position": [
+                8372.697265625,
+                292.1318664550781,
+                5984.283203125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 6,
+            "Type": "ToxicZoneSuits_Jacket_yellow",
+            "DisplayName": "ToxicZoneSuits_Jacket_yellow",
+            "Position": [
+                8367.7900390625,
+                292.3518981933594,
+                5986.61572265625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 7,
+            "Type": "ToxicZoneSuits_Boots_yellow",
+            "DisplayName": "ToxicZoneSuits_Boots_yellow",
+            "Position": [
+                8370.18359375,
+                292.27099609375,
+                5986.357421875
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 8,
+            "Type": "ToxicZoneSuits_Gloves_black",
+            "DisplayName": "ToxicZoneSuits_Gloves_black",
+            "Position": [
+                8369.4033203125,
+                292.25750732421877,
+                5988.30322265625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 9,
+            "Type": "ToxicZoneSuits_Pants_black",
+            "DisplayName": "ToxicZoneSuits_Pants_black",
+            "Position": [
+                8367.5048828125,
+                292.40362548828127,
+                5989.29541015625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 10,
+            "Type": "ToxicZoneSuits_Hood_black",
+            "DisplayName": "ToxicZoneSuits_Hood_black",
+            "Position": [
+                8366.0078125,
+                292.2898254394531,
+                5988.30126953125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 11,
+            "Type": "ToxicZoneGP5GasMask_green",
+            "DisplayName": "ToxicZoneGP5GasMask_green",
+            "Position": [
+                8364.2373046875,
+                292.17364501953127,
+                5987.83349609375
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 12,
+            "Type": "Land_Castle_Wall2_End2",
+            "DisplayName": "Land_Castle_Wall2_End2",
+            "Position": [
+                8404.900390625,
+                300.1099853515625,
+                5997.919921875
+            ],
+            "Orientation": [
+                89.9999008178711,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 13,
+            "Type": "Land_Castle_Wall2_30",
+            "DisplayName": "Land_Castle_Wall2_30",
+            "Position": [
+                8404.900390625,
+                298.9949951171875,
+                5962.02001953125
+            ],
+            "Orientation": [
+                -98.9999008178711,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 14,
+            "Type": "Land_Castle_Wall1_Corner1",
+            "DisplayName": "Land_Castle_Wall1_Corner1",
+            "Position": [
+                8405.2802734375,
+                299.44000244140627,
+                6009.18017578125
+            ],
+            "Orientation": [
+                162.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 17,
+            "Type": "Land_Castle_WallS_10",
+            "DisplayName": "Land_Castle_WallS_10",
+            "Position": [
+                8399.802734375,
+                297.5133056640625,
+                6021.48291015625
+            ],
+            "Orientation": [
+                26.999998092651368,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 18,
+            "Type": "Land_Castle_Gate",
+            "DisplayName": "Land_Castle_Gate",
+            "Position": [
+                8409.5302734375,
+                298.5249938964844,
+                5983.97021484375
+            ],
+            "Orientation": [
+                90.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 19,
+            "Type": "Land_Castle_Bastion",
+            "DisplayName": "Land_Castle_Bastion",
+            "Position": [
+                8387.1201171875,
+                293.447998046875,
+                5905.47998046875
+            ],
+            "Orientation": [
+                129.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 20,
+            "Type": "Land_Castle_Bastion_nolc",
+            "DisplayName": "Land_Castle_Bastion_nolc",
+            "Position": [
+                8272.21875,
+                297.4088134765625,
+                5936.49853515625
+            ],
+            "Orientation": [
+                -126.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 21,
+            "Type": "Land_Castle_Gate",
+            "DisplayName": "Land_Castle_Gate",
+            "Position": [
+                8285.5400390625,
+                295.60198974609377,
+                5998.5400390625
+            ],
+            "Orientation": [
+                -81.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 22,
+            "Type": "Land_Castle_Wall1_End1",
+            "DisplayName": "Land_Castle_Wall1_End1",
+            "Position": [
+                8279.6181640625,
+                299.7298889160156,
+                5979.99267578125
+            ],
+            "Orientation": [
+                -72.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 23,
+            "Type": "Land_Castle_Wall2_30",
+            "DisplayName": "Land_Castle_Wall2_30",
+            "Position": [
+                8275.5302734375,
+                298.802001953125,
+                5959.9599609375
+            ],
+            "Orientation": [
+                98.9999008178711,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 24,
+            "Type": "Land_Castle_Wall1_End2",
+            "DisplayName": "Land_Castle_Wall1_End2",
+            "Position": [
+                8286.1396484375,
+                296.9800109863281,
+                5926.22021484375
+            ],
+            "Orientation": [
+                72.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 25,
+            "Type": "Land_Castle_Wall2_End2",
+            "DisplayName": "Land_Castle_Wall2_End2",
+            "Position": [
+                8311.5400390625,
+                298.8710021972656,
+                5904.240234375
+            ],
+            "Orientation": [
+                -162.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 26,
+            "Type": "Land_Castle_Wall2_End2_nolc",
+            "DisplayName": "Land_Castle_Wall2_End2_nolc",
+            "Position": [
+                8295.26953125,
+                297.135009765625,
+                5910.47998046875
+            ],
+            "Orientation": [
+                36.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 27,
+            "Type": "Land_Castle_Wall1_20_Turn_nolc",
+            "DisplayName": "Land_Castle_Wall1_20_Turn_nolc",
+            "Position": [
+                8329.5625,
+                299.6735534667969,
+                5897.63525390625
+            ],
+            "Orientation": [
+                -152.99993896484376,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 28,
+            "Type": "Land_Castle_Bergfrit",
+            "DisplayName": "Land_Castle_Bergfrit",
+            "Position": [
+                8345.7529296875,
+                308.0647277832031,
+                5893.8095703125
+            ],
+            "Orientation": [
+                81.00003051757813,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 29,
+            "Type": "Land_Castle_Wall1_Corner2",
+            "DisplayName": "Land_Castle_Wall1_Corner2",
+            "Position": [
+                8354.7900390625,
+                296.9110107421875,
+                5893.0400390625
+            ],
+            "Orientation": [
+                -162.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 30,
+            "Type": "Land_Castle_Wall1_20_Turn_nolc",
+            "DisplayName": "Land_Castle_Wall1_20_Turn_nolc",
+            "Position": [
+                8365.0302734375,
+                297.885986328125,
+                5898.009765625
+            ],
+            "Orientation": [
+                162.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 32,
+            "Type": "FP4_TacticalPants_WoodLand",
+            "DisplayName": "FP4_TacticalPants_WoodLand",
+            "Position": [
+                8375.8193359375,
+                293.2594299316406,
+                5992.685546875
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        }
+    ],
+    "DeletedObjects": []
+}

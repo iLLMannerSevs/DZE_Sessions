@@ -1,0 +1,300 @@
+{
+    "MapName": "ChernarusPlus",
+    "CameraPosition": [
+        4839.75048828125,
+        24.061634063720704,
+        2532.29931640625
+    ],
+    "EditorObjects": [
+        {
+            "m_Id": 32,
+            "Type": "Land_Mil_ATC_Small",
+            "DisplayName": "Land_Mil_ATC_Small",
+            "Position": [
+                4947.7099609375,
+                19.5,
+                2569.760009765625
+            ],
+            "Orientation": [
+                -135.00001525878907,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 34,
+            "Type": "Land_Mil_Guardhouse2",
+            "DisplayName": "Land_Mil_Guardhouse2",
+            "Position": [
+                4741.68017578125,
+                10.180000305175782,
+                2589.97998046875
+            ],
+            "Orientation": [
+                -80.5,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 35,
+            "Type": "Land_Mil_GuardTower",
+            "DisplayName": "Land_Mil_GuardTower",
+            "Position": [
+                4810.52001953125,
+                15.477700233459473,
+                2593.969970703125
+            ],
+            "Orientation": [
+                35.99980163574219,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 36,
+            "Type": "Land_Mil_Barracks6",
+            "DisplayName": "Land_Mil_Barracks6",
+            "Position": [
+                5213.15185546875,
+                385.0835266113281,
+                3504.57080078125
+            ],
+            "Orientation": [
+                0.0,
+                8.460559844970704,
+                2.9435315132141115
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 13,
+            "Type": "Land_Ship_Big_FrontB",
+            "DisplayName": "Land_Ship_Big_FrontB",
+            "Position": [
+                5846.5,
+                17.0,
+                1976.5899658203126
+            ],
+            "Orientation": [
+                110.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 14,
+            "Type": "Land_Ship_Big_FrontA",
+            "DisplayName": "Land_Ship_Big_FrontA",
+            "Position": [
+                5842.0,
+                18.568700790405275,
+                1957.699951171875
+            ],
+            "Orientation": [
+                110.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 15,
+            "Type": "Land_Ship_Big_Castle",
+            "DisplayName": "Land_Ship_Big_Castle",
+            "Position": [
+                5872.419921875,
+                27.41390037536621,
+                2039.93994140625
+            ],
+            "Orientation": [
+                110.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 17,
+            "Type": "Land_Ship_Big_BackA",
+            "DisplayName": "Land_Ship_Big_BackA",
+            "Position": [
+                5869.14990234375,
+                18.672000885009767,
+                2032.2900390625
+            ],
+            "Orientation": [
+                110.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 18,
+            "Type": "Land_Ship_Big_BackB",
+            "DisplayName": "Land_Ship_Big_BackB",
+            "Position": [
+                5876.490234375,
+                17.200000762939454,
+                2050.56005859375
+            ],
+            "Orientation": [
+                110.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 19,
+            "Type": "bldr_ship_medium_front",
+            "DisplayName": "bldr_ship_medium_front",
+            "Position": [
+                5451.35009765625,
+                5.6350998878479,
+                1865.280029296875
+            ],
+            "Orientation": [
+                117.00000762939453,
+                0.0,
+                20.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 20,
+            "Type": "Land_Boat_Small6",
+            "DisplayName": "Land_Boat_Small6",
+            "Position": [
+                5249.4501953125,
+                0.7273200154304504,
+                1908.8599853515626
+            ],
+            "Orientation": [
+                63.0,
+                -3.1787302494049074,
+                -1.3741999864578248
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 22,
+            "Type": "Land_Boathouse",
+            "DisplayName": "Land_Boathouse",
+            "Position": [
+                5673.56005859375,
+                -1.9493000507354737,
+                1953.27001953125
+            ],
+            "Orientation": [
+                -10.999899864196778,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 23,
+            "Type": "Land_Farm_Watertower",
+            "DisplayName": "Land_Farm_Watertower",
+            "Position": [
+                5129.83984375,
+                22.109500885009767,
+                2096.64990234375
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 25,
+            "Type": "Land_Barn_Wood1",
+            "DisplayName": "Land_Barn_Wood1",
+            "Position": [
+                4772.0498046875,
+                10.75,
+                2307.409912109375
+            ],
+            "Orientation": [
+                18.0,
+                -1.9900001287460328,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 26,
+            "Type": "Land_Sawmill_Building",
+            "DisplayName": "Land_Sawmill_Building",
+            "Position": [
+                4814.68994140625,
+                12.0,
+                2267.2099609375
+            ],
+            "Orientation": [
+                -70.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 28,
+            "Type": "Land_Mil_Airfield_HQ",
+            "DisplayName": "Land_Mil_Airfield_HQ",
+            "Position": [
+                4891.93017578125,
+                15.550200462341309,
+                2526.969970703125
+            ],
+            "Orientation": [
+                50.000003814697269,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 30,
+            "Type": "Land_Mil_Barracks3",
+            "DisplayName": "Land_Mil_Barracks3",
+            "Position": [
+                4852.580078125,
+                11.748100280761719,
+                2479.02001953125
+            ],
+            "Orientation": [
+                -27.0,
+                1.2000000476837159,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        }
+    ],
+    "DeletedObjects": []
+}

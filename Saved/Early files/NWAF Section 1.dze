@@ -1,0 +1,2170 @@
+{
+    "MapName": "ChernarusPlus",
+    "CameraPosition": [
+        4579.0859375,
+        351.0327453613281,
+        10191.013671875
+    ],
+    "EditorObjects": [
+        {
+            "m_Id": 1,
+            "Type": "CamoNetShelter",
+            "DisplayName": "CamoNetShelter",
+            "Position": [
+                4631.3798828125,
+                340.0,
+                10137.599609375
+            ],
+            "Orientation": [
+                54.0,
+                1.274209976196289,
+                4.349689960479736
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 4,
+            "Type": "DebugCylinder",
+            "DisplayName": "DebugCylinder",
+            "Position": [
+                6.538829803466797,
+                3.224440097808838,
+                -5.559179782867432
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 8
+        },
+        {
+            "m_Id": 19,
+            "Type": "DebugCylinder",
+            "DisplayName": "DebugCylinder",
+            "Position": [
+                4636.29248046875,
+                341.5410461425781,
+                10143.7734375
+            ],
+            "Orientation": [
+                54.62630081176758,
+                0.8574403524398804,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 20,
+            "Type": "DebugCylinder",
+            "DisplayName": "DebugCylinder",
+            "Position": [
+                4615.2744140625,
+                341.26727294921877,
+                10127.580078125
+            ],
+            "Orientation": [
+                103.28821563720703,
+                -1.0680022239685059,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 21,
+            "Type": "DebugCylinder",
+            "DisplayName": "DebugCylinder",
+            "Position": [
+                4632.88671875,
+                341.7449035644531,
+                10149.87890625
+            ],
+            "Orientation": [
+                -20.482023239135743,
+                0.5503366589546204,
+                -1.334082799786529e-8
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 22,
+            "Type": "DebugCylinder",
+            "DisplayName": "DebugCylinder",
+            "Position": [
+                4620.53955078125,
+                341.6580505371094,
+                10145.158203125
+            ],
+            "Orientation": [
+                69.64179229736328,
+                0.5041948556900024,
+                1.3340729410060704e-8
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 23,
+            "Type": "DebugCylinder",
+            "DisplayName": "DebugCylinder",
+            "Position": [
+                4625.310546875,
+                341.06146240234377,
+                10127.6650390625
+            ],
+            "Orientation": [
+                138.43209838867188,
+                -0.16352923214435578,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 24,
+            "Type": "DebugCylinder",
+            "DisplayName": "DebugCylinder",
+            "Position": [
+                4613.36572265625,
+                341.4123229980469,
+                10147.8681640625
+            ],
+            "Orientation": [
+                106.4261245727539,
+                -0.6805288195610046,
+                -1.334115395934532e-8
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 25,
+            "Type": "DebugCylinder",
+            "DisplayName": "DebugCylinder",
+            "Position": [
+                4635.53271484375,
+                341.4883117675781,
+                10142.26953125
+            ],
+            "Orientation": [
+                -22.091060638427736,
+                0.40719348192214968,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 26,
+            "Type": "DebugCylinder",
+            "DisplayName": "DebugCylinder",
+            "Position": [
+                4640.71142578125,
+                341.4631042480469,
+                10156.33984375
+            ],
+            "Orientation": [
+                159.0767059326172,
+                -0.8394824862480164,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 27,
+            "Type": "DebugCylinder",
+            "DisplayName": "DebugCylinder",
+            "Position": [
+                4613.49609375,
+                341.4315490722656,
+                10144.8955078125
+            ],
+            "Orientation": [
+                -171.78933715820313,
+                -1.8229690790176392,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 28,
+            "Type": "DebugCylinder",
+            "DisplayName": "DebugCylinder",
+            "Position": [
+                4617.75390625,
+                341.46197509765627,
+                10151.1015625
+            ],
+            "Orientation": [
+                46.33673858642578,
+                0.8089237809181213,
+                -2.6683085962986298e-8
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 29,
+            "Type": "DebugCylinder",
+            "DisplayName": "DebugCylinder",
+            "Position": [
+                4635.318359375,
+                341.23040771484377,
+                10138.20703125
+            ],
+            "Orientation": [
+                -6.474427223205566,
+                0.7889403104782105,
+                6.670739072234255e-9
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 30,
+            "Type": "DebugCylinder",
+            "DisplayName": "DebugCylinder",
+            "Position": [
+                4624.720703125,
+                341.3726501464844,
+                10133.05078125
+            ],
+            "Orientation": [
+                -66.80408477783203,
+                -1.2118041515350342,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 31,
+            "Type": "DebugCylinder",
+            "DisplayName": "DebugCylinder",
+            "Position": [
+                4624.07275390625,
+                341.76556396484377,
+                10150.53515625
+            ],
+            "Orientation": [
+                -23.71520233154297,
+                -0.8837048411369324,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 32,
+            "Type": "DebugCylinder",
+            "DisplayName": "DebugCylinder",
+            "Position": [
+                4612.41357421875,
+                341.4263916015625,
+                10143.453125
+            ],
+            "Orientation": [
+                166.36521911621095,
+                -1.5601109266281129,
+                2.6690321064393175e-8
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 33,
+            "Type": "DebugCylinder",
+            "DisplayName": "DebugCylinder",
+            "Position": [
+                4642.61669921875,
+                341.4063720703125,
+                10149.2255859375
+            ],
+            "Orientation": [
+                49.71184158325195,
+                -0.6707791090011597,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 34,
+            "Type": "DebugCylinder",
+            "DisplayName": "DebugCylinder",
+            "Position": [
+                4637.4921875,
+                340.2668762207031,
+                10127.0869140625
+            ],
+            "Orientation": [
+                129.38589477539063,
+                -2.377810478210449,
+                2.1362734514696059e-7
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 35,
+            "Type": "DebugCylinder",
+            "DisplayName": "DebugCylinder",
+            "Position": [
+                4627.42431640625,
+                341.34600830078127,
+                10134.8369140625
+            ],
+            "Orientation": [
+                -155.736572265625,
+                -0.48996034264564516,
+                1.3340700988351273e-8
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 36,
+            "Type": "DebugCylinder",
+            "DisplayName": "DebugCylinder",
+            "Position": [
+                4631.7783203125,
+                341.6604919433594,
+                10142.861328125
+            ],
+            "Orientation": [
+                -51.59727096557617,
+                0.9303362965583801,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 37,
+            "Type": "DebugCylinder",
+            "DisplayName": "DebugCylinder",
+            "Position": [
+                4612.904296875,
+                341.4307556152344,
+                10132.6982421875
+            ],
+            "Orientation": [
+                90.5586166381836,
+                -0.2778538763523102,
+                -4.1688655305627267e-10
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 38,
+            "Type": "DebugCylinder",
+            "DisplayName": "DebugCylinder",
+            "Position": [
+                4635.681640625,
+                341.1260681152344,
+                10137.0498046875
+            ],
+            "Orientation": [
+                -144.9548797607422,
+                0.31010323762893679,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 39,
+            "Type": "DebugCylinder",
+            "DisplayName": "DebugCylinder",
+            "Position": [
+                4633.474609375,
+                340.90777587890627,
+                10132.5517578125
+            ],
+            "Orientation": [
+                -35.29086685180664,
+                0.9355499744415283,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 40,
+            "Type": "DebugCylinder",
+            "DisplayName": "DebugCylinder",
+            "Position": [
+                4627.3134765625,
+                341.2924499511719,
+                10133.65234375
+            ],
+            "Orientation": [
+                -127.6891098022461,
+                -0.07757924497127533,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 41,
+            "Type": "DebugCylinder",
+            "DisplayName": "DebugCylinder",
+            "Position": [
+                4620.72314453125,
+                341.5573425292969,
+                10138.431640625
+            ],
+            "Orientation": [
+                -20.90056037902832,
+                -0.9457027316093445,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 42,
+            "Type": "DebugCylinder",
+            "DisplayName": "DebugCylinder",
+            "Position": [
+                4622.734375,
+                341.5986328125,
+                10152.482421875
+            ],
+            "Orientation": [
+                -130.50611877441407,
+                0.9997801780700684,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 43,
+            "Type": "DebugCylinder",
+            "DisplayName": "DebugCylinder",
+            "Position": [
+                4628.90478515625,
+                341.5323791503906,
+                10156.6630859375
+            ],
+            "Orientation": [
+                -29.596572875976564,
+                -0.7909539341926575,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 44,
+            "Type": "DebugCylinder",
+            "DisplayName": "DebugCylinder",
+            "Position": [
+                4624.5673828125,
+                341.42706298828127,
+                10136.541015625
+            ],
+            "Orientation": [
+                143.15380859375,
+                1.614742398262024,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 45,
+            "Type": "DebugCylinder",
+            "DisplayName": "DebugCylinder",
+            "Position": [
+                4623.7978515625,
+                341.4097595214844,
+                10156.84765625
+            ],
+            "Orientation": [
+                114.30635070800781,
+                0.08108442276716232,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 46,
+            "Type": "DebugCylinder",
+            "DisplayName": "DebugCylinder",
+            "Position": [
+                4616.9267578125,
+                341.2934875488281,
+                10154.2392578125
+            ],
+            "Orientation": [
+                29.79081916809082,
+                0.0015194063307717443,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 47,
+            "Type": "DebugCylinder",
+            "DisplayName": "DebugCylinder",
+            "Position": [
+                4613.8251953125,
+                341.29296875,
+                10152.0
+            ],
+            "Orientation": [
+                63.42097091674805,
+                0.8582633137702942,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 48,
+            "Type": "DebugCylinder",
+            "DisplayName": "DebugCylinder",
+            "Position": [
+                4629.541015625,
+                341.4789123535156,
+                10139.375
+            ],
+            "Orientation": [
+                98.7438735961914,
+                -0.17779169976711274,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 49,
+            "Type": "DebugCylinder",
+            "DisplayName": "DebugCylinder",
+            "Position": [
+                4613.1171875,
+                341.41265869140627,
+                10146.2177734375
+            ],
+            "Orientation": [
+                144.7937774658203,
+                0.38106706738471987,
+                1.3340509141812618e-8
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 50,
+            "Type": "DebugCylinder",
+            "DisplayName": "DebugCylinder",
+            "Position": [
+                4623.39013671875,
+                341.4342346191406,
+                10134.763671875
+            ],
+            "Orientation": [
+                71.1476058959961,
+                1.1109962463378907,
+                -2.6685441412155343e-8
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 51,
+            "Type": "DebugCylinder",
+            "DisplayName": "DebugCylinder",
+            "Position": [
+                4642.44189453125,
+                340.0555725097656,
+                10127.9150390625
+            ],
+            "Orientation": [
+                115.20228576660156,
+                1.0964946746826172,
+                2.6685313514462906e-8
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 52,
+            "Type": "DebugCylinder",
+            "DisplayName": "DebugCylinder",
+            "Position": [
+                4634.5283203125,
+                341.58819580078127,
+                10143.259765625
+            ],
+            "Orientation": [
+                -68.09696197509766,
+                -2.104355573654175,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 53,
+            "Type": "DebugCylinder",
+            "DisplayName": "DebugCylinder",
+            "Position": [
+                4639.67138671875,
+                341.35833740234377,
+                10143.4443359375
+            ],
+            "Orientation": [
+                75.24737548828125,
+                1.1453007459640504,
+                -2.6685755827315917e-8
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 54,
+            "Type": "DebugCylinder",
+            "DisplayName": "DebugCylinder",
+            "Position": [
+                4641.9423828125,
+                340.9199523925781,
+                10138.240234375
+            ],
+            "Orientation": [
+                177.943359375,
+                0.4593522846698761,
+                -1.6675802960719466e-9
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 55,
+            "Type": "DebugCylinder",
+            "DisplayName": "DebugCylinder",
+            "Position": [
+                4613.03564453125,
+                341.2716979980469,
+                10151.69140625
+            ],
+            "Orientation": [
+                -106.72509765625,
+                -0.6335808634757996,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 56,
+            "Type": "DebugCylinder",
+            "DisplayName": "DebugCylinder",
+            "Position": [
+                4627.94091796875,
+                341.2423400878906,
+                10133.0966796875
+            ],
+            "Orientation": [
+                80.90178680419922,
+                1.763122797012329,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 57,
+            "Type": "DebugCylinder",
+            "DisplayName": "DebugCylinder",
+            "Position": [
+                4622.337890625,
+                341.5881652832031,
+                10140.0966796875
+            ],
+            "Orientation": [
+                22.94756317138672,
+                -1.0837323665618897,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 58,
+            "Type": "DebugCylinder",
+            "DisplayName": "DebugCylinder",
+            "Position": [
+                4615.24072265625,
+                341.3611755371094,
+                10129.6708984375
+            ],
+            "Orientation": [
+                -101.81394958496094,
+                0.29581692814826968,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 59,
+            "Type": "DebugCylinder",
+            "DisplayName": "DebugCylinder",
+            "Position": [
+                4634.9033203125,
+                341.30999755859377,
+                10139.0283203125
+            ],
+            "Orientation": [
+                -105.75102233886719,
+                1.8214530944824219,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 60,
+            "Type": "DebugCylinder",
+            "DisplayName": "DebugCylinder",
+            "Position": [
+                4639.9453125,
+                340.50396728515627,
+                10131.66796875
+            ],
+            "Orientation": [
+                -66.12309265136719,
+                0.2936873733997345,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 63,
+            "Type": "CamoNetShelter",
+            "DisplayName": "CamoNetShelter",
+            "Position": [
+                4577.60009765625,
+                340.0,
+                10136.0
+            ],
+            "Orientation": [
+                -108.0,
+                -1.588789939880371,
+                -3.4130501747131349
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 64,
+            "Type": "CamoNetShelter",
+            "DisplayName": "CamoNetShelter",
+            "Position": [
+                4754.4501953125,
+                339.0,
+                10190.099609375
+            ],
+            "Orientation": [
+                -117.00000762939453,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 65,
+            "Type": "CamoNetShelter",
+            "DisplayName": "CamoNetShelter",
+            "Position": [
+                4752.1201171875,
+                339.0,
+                10131.7998046875
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 124,
+            "Type": "bldr_plnt_t_PiceaAbies_2f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2f",
+            "Position": [
+                4637.67333984375,
+                350.353515625,
+                10192.7958984375
+            ],
+            "Orientation": [
+                35.33461380004883,
+                -1.1919174194335938,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 125,
+            "Type": "bldr_plnt_t_PiceaAbies_1f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_1f",
+            "Position": [
+                4633.5,
+                342.05255126953127,
+                10199.935546875
+            ],
+            "Orientation": [
+                29.944971084594728,
+                0.6984185576438904,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 126,
+            "Type": "bldr_plnt_t_PiceaAbies_2f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2f",
+            "Position": [
+                4634.17822265625,
+                350.89849853515627,
+                10182.96484375
+            ],
+            "Orientation": [
+                125.53291320800781,
+                -1.5031226873397828,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 127,
+            "Type": "bldr_plnt_t_PiceaAbies_1f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_1f",
+            "Position": [
+                4614.04248046875,
+                342.84564208984377,
+                10177.8759765625
+            ],
+            "Orientation": [
+                47.016456604003909,
+                1.6460798978805543,
+                1.0676576067680799e-7
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 128,
+            "Type": "bldr_plnt_t_PiceaAbies_1f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_1f",
+            "Position": [
+                4622.8369140625,
+                342.2822265625,
+                10189.5810546875
+            ],
+            "Orientation": [
+                -41.035308837890628,
+                0.5290327668190002,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 129,
+            "Type": "bldr_plnt_t_PiceaAbies_2f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2f",
+            "Position": [
+                4640.716796875,
+                350.35577392578127,
+                10193.396484375
+            ],
+            "Orientation": [
+                173.19235229492188,
+                1.1343625783920289,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 130,
+            "Type": "bldr_plnt_t_PiceaAbies_2fb",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2fb",
+            "Position": [
+                4637.44140625,
+                350.7467346191406,
+                10187.66015625
+            ],
+            "Orientation": [
+                15.860031127929688,
+                0.49418190121650698,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 131,
+            "Type": "bldr_plnt_t_PiceaAbies_1s",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_1s",
+            "Position": [
+                4624.57177734375,
+                341.31768798828127,
+                10178.8671875
+            ],
+            "Orientation": [
+                -165.82469177246095,
+                -0.7392028570175171,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 132,
+            "Type": "bldr_plnt_t_PiceaAbies_2f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2f",
+            "Position": [
+                4617.50732421875,
+                350.6949462890625,
+                10172.2001953125
+            ],
+            "Orientation": [
+                38.29354476928711,
+                -0.021570585668087007,
+                8.337633361499286e-10
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 133,
+            "Type": "bldr_plnt_t_PiceaAbies_2f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2f",
+            "Position": [
+                4635.5673828125,
+                350.01190185546877,
+                10196.427734375
+            ],
+            "Orientation": [
+                132.70065307617188,
+                -0.6143093705177307,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 134,
+            "Type": "bldr_plnt_t_PiceaAbies_2f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2f",
+            "Position": [
+                4629.73193359375,
+                349.6102600097656,
+                10197.4052734375
+            ],
+            "Orientation": [
+                -143.89320373535157,
+                -1.6946017742156983,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 135,
+            "Type": "bldr_plnt_t_PiceaAbies_2f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2f",
+            "Position": [
+                4615.5908203125,
+                350.2076110839844,
+                10181.84765625
+            ],
+            "Orientation": [
+                -118.83203887939453,
+                -0.6552452445030212,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 136,
+            "Type": "bldr_plnt_t_PiceaAbies_2f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2f",
+            "Position": [
+                4619.8212890625,
+                350.4847412109375,
+                10181.1787109375
+            ],
+            "Orientation": [
+                167.4143829345703,
+                1.110297679901123,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 137,
+            "Type": "bldr_plnt_t_PiceaAbies_1f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_1f",
+            "Position": [
+                4622.15283203125,
+                342.0064697265625,
+                10191.451171875
+            ],
+            "Orientation": [
+                161.08233642578126,
+                -1.5395299196243287,
+                -5.3380119879875568e-8
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 138,
+            "Type": "bldr_plnt_t_PiceaAbies_2f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2f",
+            "Position": [
+                4616.96728515625,
+                349.3958435058594,
+                10190.9150390625
+            ],
+            "Orientation": [
+                -133.19482421875,
+                0.48026159405708315,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 139,
+            "Type": "bldr_plnt_t_PiceaAbies_1f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_1f",
+            "Position": [
+                4634.40576171875,
+                342.60357666015627,
+                10193.9931640625
+            ],
+            "Orientation": [
+                -128.46226501464845,
+                0.02244376763701439,
+                -8.337633361499286e-10
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 140,
+            "Type": "bldr_plnt_t_PiceaAbies_2f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2f",
+            "Position": [
+                4606.54150390625,
+                350.5072937011719,
+                10121.3095703125
+            ],
+            "Orientation": [
+                102.40670776367188,
+                -0.33189234137535097,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 141,
+            "Type": "bldr_plnt_t_PiceaAbies_2f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2f",
+            "Position": [
+                4584.75048828125,
+                350.2315368652344,
+                10122.9365234375
+            ],
+            "Orientation": [
+                -76.01644897460938,
+                0.811886191368103,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 142,
+            "Type": "bldr_plnt_t_PiceaAbies_2f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2f",
+            "Position": [
+                4597.9375,
+                350.4407043457031,
+                10118.7275390625
+            ],
+            "Orientation": [
+                -62.136112213134769,
+                -0.29825448989868166,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 143,
+            "Type": "bldr_plnt_t_PiceaAbies_2s",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2s",
+            "Position": [
+                4603.92236328125,
+                346.86083984375,
+                10104.7666015625
+            ],
+            "Orientation": [
+                -163.9066619873047,
+                -0.8585368990898132,
+                2.6683421694428945e-8
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 144,
+            "Type": "bldr_plnt_t_PiceaAbies_2f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2f",
+            "Position": [
+                4607.705078125,
+                350.2696533203125,
+                10112.0537109375
+            ],
+            "Orientation": [
+                -21.98796844482422,
+                0.9261528253555298,
+                2.668391019255978e-8
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 145,
+            "Type": "bldr_plnt_t_PiceaAbies_1f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_1f",
+            "Position": [
+                4580.60498046875,
+                341.771240234375,
+                10092.5791015625
+            ],
+            "Orientation": [
+                -41.12669372558594,
+                0.06370479613542557,
+                -3.3350553430011588e-9
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 146,
+            "Type": "bldr_plnt_t_PiceaAbies_1s",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_1s",
+            "Position": [
+                4578.97509765625,
+                339.6628112792969,
+                10092.0830078125
+            ],
+            "Orientation": [
+                50.95342254638672,
+                0.8837981820106506,
+                -2.6683599330112885e-8
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 147,
+            "Type": "bldr_plnt_t_PiceaAbies_2f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2f",
+            "Position": [
+                4576.8662109375,
+                349.11322021484377,
+                10092.19140625
+            ],
+            "Orientation": [
+                -19.359222412109376,
+                0.18075893819332124,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 148,
+            "Type": "bldr_plnt_t_PiceaAbies_2fb",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2fb",
+            "Position": [
+                4588.41650390625,
+                349.63519287109377,
+                10093.0849609375
+            ],
+            "Orientation": [
+                128.3424835205078,
+                0.20268692076206208,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 149,
+            "Type": "bldr_plnt_t_PiceaAbies_2f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2f",
+            "Position": [
+                4599.6337890625,
+                350.4729919433594,
+                10122.5927734375
+            ],
+            "Orientation": [
+                0.657848060131073,
+                0.1089690700173378,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 150,
+            "Type": "bldr_plnt_t_PiceaAbies_2f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2f",
+            "Position": [
+                4591.02001953125,
+                350.2104797363281,
+                10104.3662109375
+            ],
+            "Orientation": [
+                121.9779052734375,
+                1.0807445049285889,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 151,
+            "Type": "bldr_plnt_t_PiceaAbies_1sb",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_1sb",
+            "Position": [
+                4580.3544921875,
+                340.4110412597656,
+                10108.515625
+            ],
+            "Orientation": [
+                -26.80605125427246,
+                -1.0266855955123902,
+                -2.6684713105851189e-8
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 152,
+            "Type": "bldr_plnt_t_PiceaAbies_2f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2f",
+            "Position": [
+                4596.54248046875,
+                350.30450439453127,
+                10106.5966796875
+            ],
+            "Orientation": [
+                146.15968322753907,
+                -1.098859190940857,
+                5.337066610877628e-8
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 153,
+            "Type": "bldr_plnt_t_piceaabies_2d",
+            "DisplayName": "bldr_plnt_t_piceaabies_2d",
+            "Position": [
+                4590.27294921875,
+                346.29248046875,
+                10095.236328125
+            ],
+            "Orientation": [
+                79.52812957763672,
+                1.143112063407898,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 154,
+            "Type": "bldr_plnt_t_PiceaAbies_2f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2f",
+            "Position": [
+                4589.4658203125,
+                350.048828125,
+                10100.7802734375
+            ],
+            "Orientation": [
+                112.94700622558594,
+                0.4523349404335022,
+                1.3340629045899277e-8
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 155,
+            "Type": "bldr_plnt_t_PiceaAbies_1f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_1f",
+            "Position": [
+                4583.3740234375,
+                342.5352783203125,
+                10109.275390625
+            ],
+            "Orientation": [
+                -51.528446197509769,
+                -1.373894453048706,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 156,
+            "Type": "bldr_plnt_t_PiceaAbies_2fb",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2fb",
+            "Position": [
+                4666.861328125,
+                349.919921875,
+                10138.3935546875
+            ],
+            "Orientation": [
+                -45.09384536743164,
+                0.49254921078681948,
+                -2.6681410858486744e-8
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 157,
+            "Type": "bldr_plnt_t_PiceaAbies_2f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2f",
+            "Position": [
+                4661.23291015625,
+                350.40484619140627,
+                10162.3701171875
+            ],
+            "Orientation": [
+                -108.45170593261719,
+                0.4792921245098114,
+                -2.66813593441384e-8
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 158,
+            "Type": "bldr_plnt_t_PiceaAbies_2f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2f",
+            "Position": [
+                4654.24853515625,
+                350.5695495605469,
+                10146.7451171875
+            ],
+            "Orientation": [
+                72.73143005371094,
+                0.03650592267513275,
+                8.337635026833823e-10
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 159,
+            "Type": "bldr_plnt_t_piceaabies_2d",
+            "DisplayName": "bldr_plnt_t_piceaabies_2d",
+            "Position": [
+                4655.71728515625,
+                346.2375183105469,
+                10133.5068359375
+            ],
+            "Orientation": [
+                41.99570846557617,
+                0.4930868446826935,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 160,
+            "Type": "bldr_plnt_t_PiceaAbies_2f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2f",
+            "Position": [
+                4675.341796875,
+                349.629638671875,
+                10149.0625
+            ],
+            "Orientation": [
+                160.44166564941407,
+                -1.5848890542984009,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 161,
+            "Type": "bldr_plnt_t_PiceaAbies_1s",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_1s",
+            "Position": [
+                4663.24755859375,
+                340.11871337890627,
+                10134.849609375
+            ],
+            "Orientation": [
+                163.6400604248047,
+                0.31573623418807986,
+                6.6702079415392749e-9
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 162,
+            "Type": "bldr_plnt_t_PiceaAbies_1s",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_1s",
+            "Position": [
+                4657.15576171875,
+                341.0713195800781,
+                10152.7158203125
+            ],
+            "Orientation": [
+                9.146851539611817,
+                0.38650327920913699,
+                -6.6702585677091978e-9
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 163,
+            "Type": "bldr_plnt_t_PiceaAbies_2fb",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2fb",
+            "Position": [
+                4656.60498046875,
+                350.2337341308594,
+                10140.1416015625
+            ],
+            "Orientation": [
+                -149.3609619140625,
+                1.2513008117675782,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 164,
+            "Type": "bldr_plnt_t_PiceaAbies_1s",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_1s",
+            "Position": [
+                4673.7119140625,
+                339.9927978515625,
+                10158.30078125
+            ],
+            "Orientation": [
+                -42.55252456665039,
+                -2.3933587074279787,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 165,
+            "Type": "bldr_plnt_t_PiceaAbies_2f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2f",
+            "Position": [
+                4676.1044921875,
+                349.55438232421877,
+                10149.72265625
+            ],
+            "Orientation": [
+                -28.2349910736084,
+                1.1307286024093629,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 166,
+            "Type": "bldr_plnt_t_PiceaAbies_2f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2f",
+            "Position": [
+                4680.7685546875,
+                348.9820556640625,
+                10163.220703125
+            ],
+            "Orientation": [
+                -138.49388122558595,
+                0.5701611638069153,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 167,
+            "Type": "bldr_plnt_t_PiceaAbies_2f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2f",
+            "Position": [
+                4657.6142578125,
+                350.6362609863281,
+                10161.65234375
+            ],
+            "Orientation": [
+                81.4519271850586,
+                -0.07082066684961319,
+                8.337640022837434e-10
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 168,
+            "Type": "bldr_plnt_t_piceaabies_2d",
+            "DisplayName": "bldr_plnt_t_piceaabies_2d",
+            "Position": [
+                4663.5205078125,
+                346.78955078125,
+                10146.4130859375
+            ],
+            "Orientation": [
+                -150.86204528808595,
+                0.045418281108140948,
+                -1.667527116389067e-9
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 169,
+            "Type": "bldr_plnt_t_PiceaAbies_2f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2f",
+            "Position": [
+                4675.0283203125,
+                349.6568603515625,
+                10137.7431640625
+            ],
+            "Orientation": [
+                -151.95016479492188,
+                1.327445387840271,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 170,
+            "Type": "bldr_plnt_t_PiceaAbies_2f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2f",
+            "Position": [
+                4663.80517578125,
+                350.294189453125,
+                10148.1142578125
+            ],
+            "Orientation": [
+                120.38347625732422,
+                0.16870713233947755,
+                6.670135554998069e-9
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 171,
+            "Type": "bldr_plnt_t_PiceaAbies_1sb",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_1sb",
+            "Position": [
+                4658.591796875,
+                340.96099853515627,
+                10149.5478515625
+            ],
+            "Orientation": [
+                145.43704223632813,
+                -0.8988015651702881,
+                5.336742248118753e-8
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 188,
+            "Type": "bldr_plnt_t_PiceaAbies_2f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2f",
+            "Position": [
+                4557.001953125,
+                349.31280517578127,
+                10130.6279296875
+            ],
+            "Orientation": [
+                -70.81098937988281,
+                0.10596590489149094,
+                3.3350591177594426e-9
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 189,
+            "Type": "bldr_plnt_t_PiceaAbies_2f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2f",
+            "Position": [
+                4582.3408203125,
+                350.7429504394531,
+                10150.8876953125
+            ],
+            "Orientation": [
+                33.05582809448242,
+                -0.5570911169052124,
+                2.668168797015369e-8
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 190,
+            "Type": "bldr_plnt_t_PiceaAbies_2f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2f",
+            "Position": [
+                4566.14501953125,
+                350.31317138671877,
+                10153.4384765625
+            ],
+            "Orientation": [
+                168.62106323242188,
+                -0.2863679528236389,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 191,
+            "Type": "bldr_plnt_t_PiceaAbies_1f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_1f",
+            "Position": [
+                4559.0654296875,
+                341.744140625,
+                10126.330078125
+            ],
+            "Orientation": [
+                150.03306579589845,
+                -0.022428981959819795,
+                -8.337633361499286e-10
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 192,
+            "Type": "bldr_plnt_t_PiceaAbies_2f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2f",
+            "Position": [
+                4561.6318359375,
+                349.8269958496094,
+                10136.4248046875
+            ],
+            "Orientation": [
+                -109.43534088134766,
+                0.8682531714439392,
+                2.6683487419632e-8
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 193,
+            "Type": "bldr_plnt_t_piceaabies_2d",
+            "DisplayName": "bldr_plnt_t_piceaabies_2d",
+            "Position": [
+                4567.60400390625,
+                346.6708679199219,
+                10133.5234375
+            ],
+            "Orientation": [
+                98.52522277832031,
+                -0.8611234426498413,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 194,
+            "Type": "bldr_plnt_t_PiceaAbies_2f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2f",
+            "Position": [
+                4548.65625,
+                349.01837158203127,
+                10131.1640625
+            ],
+            "Orientation": [
+                -156.2232666015625,
+                0.656055748462677,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 195,
+            "Type": "bldr_plnt_t_PiceaAbies_2f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2f",
+            "Position": [
+                4549.94140625,
+                349.045166015625,
+                10159.869140625
+            ],
+            "Orientation": [
+                -45.75421905517578,
+                -0.2743697464466095,
+                -1.3340366145087046e-8
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 196,
+            "Type": "bldr_plnt_t_PiceaAbies_2f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2f",
+            "Position": [
+                4553.98583984375,
+                349.3819885253906,
+                10141.142578125
+            ],
+            "Orientation": [
+                -17.06534767150879,
+                1.1181663274765015,
+                -2.668550536100156e-8
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 197,
+            "Type": "bldr_plnt_t_PiceaAbies_1sb",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_1sb",
+            "Position": [
+                4569.34326171875,
+                340.8240661621094,
+                10136.5712890625
+            ],
+            "Orientation": [
+                45.26466369628906,
+                0.2674539089202881,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 198,
+            "Type": "bldr_plnt_t_PiceaAbies_2f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2f",
+            "Position": [
+                4572.74072265625,
+                350.862060546875,
+                10142.86328125
+            ],
+            "Orientation": [
+                45.46380615234375,
+                1.301926851272583,
+                -1.0674926187448364e-7
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 199,
+            "Type": "bldr_plnt_t_PiceaAbies_2f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2f",
+            "Position": [
+                4566.1708984375,
+                350.5470275878906,
+                10150.3857421875
+            ],
+            "Orientation": [
+                -118.16876983642578,
+                -0.2916828989982605,
+                -1.334038568501228e-8
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 200,
+            "Type": "bldr_plnt_t_PiceaAbies_2f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2f",
+            "Position": [
+                4601.10107421875,
+                349.4774475097656,
+                10186.080078125
+            ],
+            "Orientation": [
+                98.30015563964844,
+                -1.8217190504074097,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 201,
+            "Type": "bldr_plnt_t_PiceaAbies_1sb",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_1sb",
+            "Position": [
+                4610.451171875,
+                341.17510986328127,
+                10169.8203125
+            ],
+            "Orientation": [
+                -135.01812744140626,
+                -0.26364216208457949,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 202,
+            "Type": "bldr_plnt_t_PiceaAbies_2f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2f",
+            "Position": [
+                4595.00537109375,
+                349.1252136230469,
+                10189.5166015625
+            ],
+            "Orientation": [
+                42.167503356933597,
+                1.0546234846115113,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 203,
+            "Type": "bldr_plnt_t_PiceaAbies_2f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2f",
+            "Position": [
+                4606.1787109375,
+                350.5803527832031,
+                10172.0791015625
+            ],
+            "Orientation": [
+                153.586181640625,
+                -1.6161504983901978,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 204,
+            "Type": "bldr_plnt_t_PiceaAbies_2f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2f",
+            "Position": [
+                4585.40673828125,
+                349.25982666015627,
+                10175.8154296875
+            ],
+            "Orientation": [
+                -175.0524444580078,
+                0.8220863342285156,
+                6.670793251117857e-9
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 205,
+            "Type": "bldr_plnt_t_PiceaAbies_2f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2f",
+            "Position": [
+                4586.12158203125,
+                350.4051208496094,
+                10162.19140625
+            ],
+            "Orientation": [
+                65.38594818115235,
+                1.1104952096939088,
+                -2.6685437859441664e-8
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 206,
+            "Type": "bldr_plnt_t_PiceaAbies_2f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2f",
+            "Position": [
+                4578.96484375,
+                350.66839599609377,
+                10152.353515625
+            ],
+            "Orientation": [
+                134.393798828125,
+                -0.3664925694465637,
+                1.3340486049173706e-8
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 207,
+            "Type": "bldr_plnt_t_PiceaAbies_1s",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_1s",
+            "Position": [
+                4594.21533203125,
+                341.4726867675781,
+                10153.091796875
+            ],
+            "Orientation": [
+                -24.737186431884767,
+                -0.21450553834438325,
+                6.670153318566463e-9
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 208,
+            "Type": "bldr_plnt_t_PiceaAbies_2f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2f",
+            "Position": [
+                4682.68115234375,
+                348.997802734375,
+                10151.923828125
+            ],
+            "Orientation": [
+                149.05221557617188,
+                0.27151623368263247,
+                1.3340364368730207e-8
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 209,
+            "Type": "bldr_plnt_t_PiceaAbies_2s",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2s",
+            "Position": [
+                4667.2021484375,
+                346.94677734375,
+                10155.8017578125
+            ],
+            "Orientation": [
+                -145.67532348632813,
+                0.7195597887039185,
+                2.6682528186938727e-8
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 210,
+            "Type": "bldr_plnt_t_PiceaAbies_2s",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2s",
+            "Position": [
+                4671.63232421875,
+                346.4488830566406,
+                10163.1484375
+            ],
+            "Orientation": [
+                135.16981506347657,
+                1.7245187759399415,
+                -5.338502973017967e-8
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 211,
+            "Type": "bldr_plnt_t_PiceaAbies_2f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2f",
+            "Position": [
+                4663.5419921875,
+                350.2370910644531,
+                10164.677734375
+            ],
+            "Orientation": [
+                136.01153564453126,
+                -0.1842450499534607,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 212,
+            "Type": "bldr_plnt_t_PiceaAbies_2f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2f",
+            "Position": [
+                4615.04052734375,
+                350.9962158203125,
+                10128.7451171875
+            ],
+            "Orientation": [
+                31.404661178588868,
+                -0.2575886845588684,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 213,
+            "Type": "bldr_plnt_t_PiceaAbies_2f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2f",
+            "Position": [
+                4628.7890625,
+                350.2628173828125,
+                10122.037109375
+            ],
+            "Orientation": [
+                -75.61869049072266,
+                0.7645614743232727,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 214,
+            "Type": "bldr_plnt_t_PiceaAbies_2s",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2s",
+            "Position": [
+                4613.56396484375,
+                347.9924621582031,
+                10135.64453125
+            ],
+            "Orientation": [
+                -95.75310516357422,
+                1.218186616897583,
+                -1.3343229632312159e-8
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 215,
+            "Type": "bldr_plnt_t_PiceaAbies_2f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2f",
+            "Position": [
+                4624.99169921875,
+                350.6460266113281,
+                10125.154296875
+            ],
+            "Orientation": [
+                46.29373550415039,
+                1.295950174331665,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 220,
+            "Type": "bldr_plnt_t_PiceaAbies_2f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2f",
+            "Position": [
+                4647.3984375,
+                350.77996826171877,
+                10184.51171875
+            ],
+            "Orientation": [
+                36.545623779296878,
+                -0.5089408755302429,
+                -2.66814765836898e-8
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 221,
+            "Type": "bldr_plnt_t_PiceaAbies_2f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_2f",
+            "Position": [
+                4643.82568359375,
+                350.9261779785156,
+                10184.740234375
+            ],
+            "Orientation": [
+                14.780409812927246,
+                -0.8108048439025879,
+                -1.3341548310563667e-8
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 222,
+            "Type": "bldr_plnt_t_PiceaAbies_1f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_1f",
+            "Position": [
+                4642.6083984375,
+                341.89813232421877,
+                10208.91015625
+            ],
+            "Orientation": [
+                35.58651351928711,
+                0.9375939965248108,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        },
+        {
+            "m_Id": 223,
+            "Type": "bldr_plnt_t_PiceaAbies_1f",
+            "DisplayName": "bldr_plnt_t_PiceaAbies_1f",
+            "Position": [
+                4633.32177734375,
+                342.383544921875,
+                10195.873046875
+            ],
+            "Orientation": [
+                110.44203186035156,
+                -1.010425329208374,
+                2.6684576326374555e-8
+            ],
+            "Scale": 1.0,
+            "Flags": 0
+        }
+    ],
+    "DeletedObjects": []
+}

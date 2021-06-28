@@ -1,0 +1,674 @@
+{
+    "MapName": "Enoch",
+    "CameraPosition": [
+        3930.980712890625,
+        252.6373748779297,
+        10169.4365234375
+    ],
+    "EditorObjects": [
+        {
+            "m_Id": 1,
+            "Type": "Land_Construction_Building",
+            "DisplayName": "Land_Construction_Building",
+            "Position": [
+                5747.7900390625,
+                423.5,
+                4123.68017578125
+            ],
+            "Orientation": [
+                -81.00019836425781,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 2,
+            "Type": "Land_Tisy_KitchenRoom",
+            "DisplayName": "Land_Tisy_KitchenRoom",
+            "Position": [
+                5729.97998046875,
+                422.17999267578127,
+                4069.909912109375
+            ],
+            "Orientation": [
+                -170.99798583984376,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 3,
+            "Type": "Land_Misc_Polytunnel",
+            "DisplayName": "Land_Misc_Polytunnel",
+            "Position": [
+                5765.2998046875,
+                418.0,
+                4058.5
+            ],
+            "Orientation": [
+                -81.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 4,
+            "Type": "Land_Misc_Polytunnel",
+            "DisplayName": "Land_Misc_Polytunnel",
+            "Position": [
+                5768.9599609375,
+                418.0,
+                4080.760009765625
+            ],
+            "Orientation": [
+                -81.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 5,
+            "Type": "Land_Tower_TC5",
+            "DisplayName": "Land_Tower_TC5",
+            "Position": [
+                5705.009765625,
+                439.2980041503906,
+                3755.550048828125
+            ],
+            "Orientation": [
+                -36.0,
+                0.07423750311136246,
+                -0.053936805576086047
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 6,
+            "Type": "bldr_mil_camonet_roof_nato",
+            "DisplayName": "bldr_mil_camonet_roof_nato",
+            "Position": [
+                5707.7841796875,
+                416.7417297363281,
+                3942.043212890625
+            ],
+            "Orientation": [
+                -99.00001525878906,
+                8.386795997619629,
+                -2.806442975997925
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 7,
+            "Type": "bldr_mil_camonet_roof_nato",
+            "DisplayName": "bldr_mil_camonet_roof_nato",
+            "Position": [
+                5706.78076171875,
+                417.692138671875,
+                3953.265625
+            ],
+            "Orientation": [
+                -17.999990463256837,
+                10.91722583770752,
+                4.144255638122559
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 8,
+            "Type": "bldr_mil_camonet_big_nato",
+            "DisplayName": "bldr_mil_camonet_big_nato",
+            "Position": [
+                6068.8251953125,
+                372.4989013671875,
+                3838.393798828125
+            ],
+            "Orientation": [
+                107.9997787475586,
+                -4.8429999351501469,
+                4.935238361358643
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 9,
+            "Type": "bldr_mil_camonet_big_nato",
+            "DisplayName": "bldr_mil_camonet_big_nato",
+            "Position": [
+                6092.7255859375,
+                370.9489440917969,
+                3834.426025390625
+            ],
+            "Orientation": [
+                0.00006484967889264226,
+                2.831847906112671,
+                3.1099746227264406
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 10,
+            "Type": "bldr_mil_camonet_side_nato",
+            "DisplayName": "bldr_mil_camonet_side_nato",
+            "Position": [
+                6081.8603515625,
+                373.066650390625,
+                3819.830810546875
+            ],
+            "Orientation": [
+                -170.9999542236328,
+                14.315433502197266,
+                -5.808263778686523
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 12,
+            "Type": "bldr_mil_camonet_side_nato",
+            "DisplayName": "bldr_mil_camonet_side_nato",
+            "Position": [
+                6055.42236328125,
+                375.786865234375,
+                3816.65673828125
+            ],
+            "Orientation": [
+                -153.659423828125,
+                13.27562427520752,
+                -0.6505462527275086
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 13,
+            "Type": "bldr_mil_camonet_side_nato",
+            "DisplayName": "bldr_mil_camonet_side_nato",
+            "Position": [
+                6070.7626953125,
+                376.3467712402344,
+                3810.642822265625
+            ],
+            "Orientation": [
+                162.0000762939453,
+                9.718534469604493,
+                -7.729564666748047
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 14,
+            "Type": "bldr_mil_fortified_nest_big",
+            "DisplayName": "bldr_mil_fortified_nest_big",
+            "Position": [
+                5630.77978515625,
+                423.0,
+                3911.719970703125
+            ],
+            "Orientation": [
+                135.00001525878907,
+                2.1327600479125978,
+                -3.4291000366210939
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 15,
+            "Type": "bldr_mil_fortified_nest_small",
+            "DisplayName": "bldr_mil_fortified_nest_small",
+            "Position": [
+                5929.08984375,
+                384.29998779296877,
+                4431.830078125
+            ],
+            "Orientation": [
+                -108.0,
+                -0.2402539998292923,
+                -6.353539943695068
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 16,
+            "Type": "bldr_roadblock_pillbox",
+            "DisplayName": "bldr_roadblock_pillbox",
+            "Position": [
+                5945.57568359375,
+                383.48199462890627,
+                4422.73876953125
+            ],
+            "Orientation": [
+                -116.99994659423828,
+                2.2433505058288576,
+                -5.246288776397705
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 17,
+            "Type": "bldr_roadblock_cncblocks_long",
+            "DisplayName": "bldr_roadblock_cncblocks_long",
+            "Position": [
+                5934.15380859375,
+                383.75469970703127,
+                4428.248046875
+            ],
+            "Orientation": [
+                62.999977111816409,
+                -2.5435140132904054,
+                3.8635659217834474
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 18,
+            "Type": "bldr_roadblock_cncblocks_short",
+            "DisplayName": "bldr_roadblock_cncblocks_short",
+            "Position": [
+                5941.7666015625,
+                383.1487121582031,
+                4422.0712890625
+            ],
+            "Orientation": [
+                -117.00005340576172,
+                -1.1721702814102173,
+                -3.5120151042938234
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 19,
+            "Type": "bldr_rock_bright_wallh3",
+            "DisplayName": "bldr_rock_bright_wallh3",
+            "Position": [
+                7326.8095703125,
+                249.14334106445313,
+                6014.21484375
+            ],
+            "Orientation": [
+                170.9999542236328,
+                6.323432445526123,
+                1.6684017181396485
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 21,
+            "Type": "bldr_rock_bright_monolith3",
+            "DisplayName": "bldr_rock_bright_monolith3",
+            "Position": [
+                7034.48876953125,
+                254.52552795410157,
+                6398.38232421875
+            ],
+            "Orientation": [
+                0.0,
+                1.8226431608200074,
+                5.7530903816223148
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 22,
+            "Type": "bldr_rock_bright_monolith1",
+            "DisplayName": "bldr_rock_bright_monolith1",
+            "Position": [
+                7303.580078125,
+                226.9770050048828,
+                6144.39990234375
+            ],
+            "Orientation": [
+                17.99989891052246,
+                -5.876309394836426,
+                -3.0664801597595217
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 24,
+            "Type": "Land_Mil_ControlTower",
+            "DisplayName": "Land_Mil_ControlTower",
+            "Position": [
+                3950.360107421875,
+                245.85000610351563,
+                10159.400390625
+            ],
+            "Orientation": [
+                45.00019836425781,
+                1.0000001192092896,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 25,
+            "Type": "bldr_mil_blastcover4",
+            "DisplayName": "bldr_mil_blastcover4",
+            "Position": [
+                3949.169921875,
+                239.1580047607422,
+                10201.5
+            ],
+            "Orientation": [
+                137.0,
+                0.06478399783372879,
+                0.45369794964790347
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 26,
+            "Type": "bldr_mil_blastcover3",
+            "DisplayName": "bldr_mil_blastcover3",
+            "Position": [
+                3993.330078125,
+                239.12399291992188,
+                10251.7001953125
+            ],
+            "Orientation": [
+                45.0,
+                0.6478729844093323,
+                -1.8143099546432496
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 27,
+            "Type": "bldr_mil_artilery_rampart",
+            "DisplayName": "bldr_mil_artilery_rampart",
+            "Position": [
+                3907.860107421875,
+                238.56500244140626,
+                10164.599609375
+            ],
+            "Orientation": [
+                -126.0,
+                0.1077909991145134,
+                0.14836099743843079
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 28,
+            "Type": "bldr_mil_artillery_nest",
+            "DisplayName": "bldr_mil_artillery_nest",
+            "Position": [
+                3895.7099609375,
+                238.17100524902345,
+                10170.400390625
+            ],
+            "Orientation": [
+                -8.000000953674317,
+                -1.3739300966262818,
+                -1.466059923171997
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 29,
+            "Type": "bldr_mil_camonet_tent2",
+            "DisplayName": "bldr_mil_camonet_tent2",
+            "Position": [
+                3944.482177734375,
+                241.09039306640626,
+                10150.4873046875
+            ],
+            "Orientation": [
+                44.99980545043945,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 30,
+            "Type": "Land_Mil_Barracks6",
+            "DisplayName": "Land_Mil_Barracks6",
+            "Position": [
+                3891.02001953125,
+                238.26100158691407,
+                10108.2001953125
+            ],
+            "Orientation": [
+                -38.999900817871097,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 31,
+            "Type": "Land_Mil_GuardHouse3",
+            "DisplayName": "Land_Mil_GuardHouse3",
+            "Position": [
+                3921.419921875,
+                240.15499877929688,
+                10169.2001953125
+            ],
+            "Orientation": [
+                -133.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 32,
+            "Type": "Land_Mil_Airfield_HQ",
+            "DisplayName": "Land_Mil_Airfield_HQ",
+            "Position": [
+                3993.469970703125,
+                244.2100067138672,
+                10185.2998046875
+            ],
+            "Orientation": [
+                135.00001525878907,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 33,
+            "Type": "Land_Mil_Barracks_Round",
+            "DisplayName": "Land_Mil_Barracks_Round",
+            "Position": [
+                3940.47998046875,
+                239.0469970703125,
+                10216.7998046875
+            ],
+            "Orientation": [
+                135.00001525878907,
+                0.6481559872627258,
+                0.6481990218162537
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 34,
+            "Type": "Land_Mil_Barracks_Round",
+            "DisplayName": "Land_Mil_Barracks_Round",
+            "Position": [
+                3929.889892578125,
+                238.92300415039063,
+                10207.599609375
+            ],
+            "Orientation": [
+                135.00001525878907,
+                0.19445699453353883,
+                0.1944580078125
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 35,
+            "Type": "Land_Mil_Tent_Big3",
+            "DisplayName": "Land_Mil_Tent_Big3",
+            "Position": [
+                3898.06005859375,
+                239.23800659179688,
+                10206.2001953125
+            ],
+            "Orientation": [
+                45.0,
+                0.12956500053405763,
+                0.6482380032539368
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 36,
+            "Type": "Land_Mil_Barracks5",
+            "DisplayName": "Land_Mil_Barracks5",
+            "Position": [
+                3926.81005859375,
+                244.53199768066407,
+                10286.2001953125
+            ],
+            "Orientation": [
+                -45.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 37,
+            "Type": "Land_Mil_ATC_Big",
+            "DisplayName": "Land_Mil_ATC_Big",
+            "Position": [
+                3993.1298828125,
+                254.55599975585938,
+                10322.599609375
+            ],
+            "Orientation": [
+                -135.00001525878907,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 38,
+            "Type": "Land_Mil_ATC_Small",
+            "DisplayName": "Land_Mil_ATC_Small",
+            "Position": [
+                3860.510009765625,
+                248.92100524902345,
+                10092.2001953125
+            ],
+            "Orientation": [
+                54.000099182128909,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 39,
+            "Type": "Land_Mil_GuardTower",
+            "DisplayName": "Land_Mil_GuardTower",
+            "Position": [
+                3660.390869140625,
+                244.8826141357422,
+                10076.5654296875
+            ],
+            "Orientation": [
+                -135.00001525878907,
+                -1.4254133701324463,
+                -0.5184187889099121
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 40,
+            "Type": "Land_Sawmill_Illuminanttower",
+            "DisplayName": "Land_Sawmill_Illuminanttower",
+            "Position": [
+                4022.219970703125,
+                247.92799377441407,
+                10168.599609375
+            ],
+            "Orientation": [
+                0.0,
+                0.1833840012550354,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 41,
+            "Type": "Land_Sawmill_Building",
+            "DisplayName": "Land_Sawmill_Building",
+            "Position": [
+                4021.97998046875,
+                244.65899658203126,
+                10222.2001953125
+            ],
+            "Orientation": [
+                45.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "m_Id": 42,
+            "Type": "Land_Mil_Barracks6",
+            "DisplayName": "Land_Mil_Barracks6",
+            "Position": [
+                3859.77001953125,
+                238.26100158691407,
+                10207.599609375
+            ],
+            "Orientation": [
+                44.999900817871097,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        }
+    ],
+    "DeletedObjects": []
+}

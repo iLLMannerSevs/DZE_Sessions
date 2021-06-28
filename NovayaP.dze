@@ -1,0 +1,27 @@
+{
+    "MapName": "ChernarusPlus",
+    "CameraPosition": [
+        3222.4765625,
+        262.6472473144531,
+        12967.0849609375
+    ],
+    "EditorObjects": [
+        {
+            "Type": "Land_Factory_Small",
+            "DisplayName": "Land_Factory_Small",
+            "Position": [
+                3262.92138671875,
+                212.8743896484375,
+                12995.802734375
+            ],
+            "Orientation": [
+                -18.000003814697267,
+                2.9161510467529299,
+                2.5779731273651125
+            ],
+            "Scale": 0.9992292523384094,
+            "Flags": 30
+        }
+    ],
+    "DeletedObjects": []
+}
