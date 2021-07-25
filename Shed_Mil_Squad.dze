@@ -1,0 +1,283 @@
+{
+    "MapName": "ChernarusPlus",
+    "CameraPosition": [
+        4677.58154296875,
+        341.0972900390625,
+        9496.2646484375
+    ],
+    "EditorObjects": [
+        {
+            "Type": "TacticalGloves_Green",
+            "DisplayName": "TacticalGloves_Green",
+            "Position": [
+                4676.5498046875,
+                340.1000061035156,
+                9492.7900390625
+            ],
+            "Orientation": [
+                -0.000005008955668017734,
+                90.0,
+                -180.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "OMNOGloves_Gray",
+            "DisplayName": "OMNOGloves_Gray",
+            "Position": [
+                4675.7998046875,
+                340.1000061035156,
+                9492.759765625
+            ],
+            "Orientation": [
+                -3.499999523162842,
+                86.99996948242188,
+                -179.49998474121095
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "SodaCan_Fronta",
+            "DisplayName": "centerpoint",
+            "Position": [
+                4675.91943359375,
+                339.0701904296875,
+                9495.142578125
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "Type": "PlateCarrierVest",
+            "DisplayName": "PlateCarrierVest",
+            "Position": [
+                4676.4599609375,
+                340.52099609375,
+                9492.73046875
+            ],
+            "Orientation": [
+                90.49999237060547,
+                -12.0,
+                -94.49998474121094
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "PlateCarrierVest",
+            "DisplayName": "PlateCarrierVest",
+            "Position": [
+                4675.7998046875,
+                340.5,
+                9492.740234375
+            ],
+            "Orientation": [
+                90.0,
+                -11.399999618530274,
+                -90.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "PlateCarrierVest",
+            "DisplayName": "PlateCarrierVest",
+            "Position": [
+                4677.64990234375,
+                340.5299987792969,
+                9492.75
+            ],
+            "Orientation": [
+                78.99999237060547,
+                -9.0,
+                -87.5
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "PlateCarrierVest",
+            "DisplayName": "PlateCarrierVest",
+            "Position": [
+                4677.080078125,
+                340.50201416015627,
+                9492.759765625
+            ],
+            "Orientation": [
+                82.5,
+                -11.800000190734864,
+                -90.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 30
+        },
+        {
+            "Type": "MilitaryBelt",
+            "DisplayName": "MilitaryBelt",
+            "Position": [
+                4677.7099609375,
+                340.239990234375,
+                9492.83984375
+            ],
+            "Orientation": [
+                -10.000005722045899,
+                -89.00004577636719,
+                -0.5000057816505432
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 30
+        },
+        {
+            "Type": "MilitaryBelt",
+            "DisplayName": "MilitaryBelt",
+            "Position": [
+                4677.14990234375,
+                340.2049865722656,
+                9492.73046875
+            ],
+            "Orientation": [
+                2.499999761581421,
+                -89.49992370605469,
+                0.9999998211860657
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "MilitaryBelt",
+            "DisplayName": "MilitaryBelt",
+            "Position": [
+                4676.490234375,
+                340.2049865722656,
+                9492.740234375
+            ],
+            "Orientation": [
+                -178.49998474121095,
+                -90.0,
+                -180.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "MilitaryBelt",
+            "DisplayName": "MilitaryBelt",
+            "Position": [
+                4675.81982421875,
+                340.2090148925781,
+                9492.740234375
+            ],
+            "Orientation": [
+                -178.0,
+                -90.0,
+                -180.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 30
+        },
+        {
+            "Type": "Mich2001Helmet",
+            "DisplayName": "Mich2001Helmet",
+            "Position": [
+                4677.64013671875,
+                340.98199462890627,
+                9492.7099609375
+            ],
+            "Orientation": [
+                0.0,
+                -60.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Mich2001Helmet",
+            "DisplayName": "Mich2001Helmet",
+            "Position": [
+                4677.02978515625,
+                340.9849853515625,
+                9492.73046875
+            ],
+            "Orientation": [
+                0.0,
+                -60.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Mich2001Helmet",
+            "DisplayName": "Mich2001Helmet",
+            "Position": [
+                4676.39990234375,
+                340.9849853515625,
+                9492.7099609375
+            ],
+            "Orientation": [
+                0.0,
+                -60.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Mich2001Helmet",
+            "DisplayName": "Mich2001Helmet",
+            "Position": [
+                4675.669921875,
+                340.9849853515625,
+                9492.6904296875
+            ],
+            "Orientation": [
+                0.0,
+                -60.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "bldr_prop_TacticalGloves_Beige",
+            "DisplayName": "bldr_prop_TacticalGloves_Beige",
+            "Position": [
+                4677.759765625,
+                340.1000061035156,
+                9492.830078125
+            ],
+            "Orientation": [
+                156.99998474121095,
+                -90.0,
+                -178.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "Type": "bldr_prop_TacticalGloves_Black",
+            "DisplayName": "bldr_prop_TacticalGloves_Black",
+            "Position": [
+                4677.14013671875,
+                340.1000061035156,
+                9492.75
+            ],
+            "Orientation": [
+                175.0,
+                -90.0,
+                -180.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        }
+    ],
+    "DeletedObjects": []
+}

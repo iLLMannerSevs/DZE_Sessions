@@ -1,0 +1,363 @@
+{
+    "MapName": "ChernarusPlus",
+    "CameraPosition": [
+        6200.02685546875,
+        302.4469299316406,
+        7727.07666015625
+    ],
+    "EditorObjects": [
+        {
+            "Type": "Barrel_Blue",
+            "DisplayName": "Barrel_Blue",
+            "Position": [
+                6200.15380859375,
+                301.0938720703125,
+                7725.61572265625
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "Type": "Chainsaw",
+            "DisplayName": "Chainsaw",
+            "Position": [
+                6201.0,
+                302.7080078125,
+                7726.7998046875
+            ],
+            "Orientation": [
+                -149.99998474121095,
+                0.0,
+                -0.0
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 30
+        },
+        {
+            "Type": "Hacksaw",
+            "DisplayName": "Hacksaw",
+            "Position": [
+                6199.0,
+                302.5740051269531,
+                7724.52001953125
+            ],
+            "Orientation": [
+                35.99909591674805,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "HandSaw",
+            "DisplayName": "HandSaw",
+            "Position": [
+                6198.97021484375,
+                302.3500061035156,
+                7724.43017578125
+            ],
+            "Orientation": [
+                33.499595642089847,
+                0.0,
+                6.5
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Chainsaw",
+            "DisplayName": "Chainsaw",
+            "Position": [
+                6200.9599609375,
+                302.2080078125,
+                7726.81005859375
+            ],
+            "Orientation": [
+                -152.99998474121095,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "CanisterGasoline",
+            "DisplayName": "CanisterGasoline",
+            "Position": [
+                6198.66015625,
+                301.4200134277344,
+                7725.2099609375
+            ],
+            "Orientation": [
+                -54.00019454956055,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "CanisterGasoline",
+            "DisplayName": "CanisterGasoline",
+            "Position": [
+                6198.509765625,
+                301.4200134277344,
+                7725.31982421875
+            ],
+            "Orientation": [
+                -54.00009536743164,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "LargeGasCanister",
+            "DisplayName": "LargeGasCanister",
+            "Position": [
+                6198.2900390625,
+                301.4200134277344,
+                7725.330078125
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "MediumGasCanister",
+            "DisplayName": "MediumGasCanister",
+            "Position": [
+                6198.3701171875,
+                301.3999938964844,
+                7725.4599609375
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "SmallGasCanister",
+            "DisplayName": "SmallGasCanister",
+            "Position": [
+                6198.22021484375,
+                301.3599853515625,
+                7725.5
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "BatteryCharger",
+            "DisplayName": "BatteryCharger",
+            "Position": [
+                6199.39013671875,
+                301.1000061035156,
+                7724.4599609375
+            ],
+            "Orientation": [
+                35.999595642089847,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "TruckBattery",
+            "DisplayName": "TruckBattery",
+            "Position": [
+                6200.06005859375,
+                301.0950012207031,
+                7723.9599609375
+            ],
+            "Orientation": [
+                -144.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "CarBattery",
+            "DisplayName": "CarBattery",
+            "Position": [
+                6199.68994140625,
+                301.0899963378906,
+                7724.25
+            ],
+            "Orientation": [
+                -54.00019454956055,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Battery9V",
+            "DisplayName": "Battery9V",
+            "Position": [
+                6202.08984375,
+                302.36700439453127,
+                7724.2001953125
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "WoodAxe",
+            "DisplayName": "WoodAxe",
+            "Position": [
+                6199.85009765625,
+                302.4159851074219,
+                7727.6201171875
+            ],
+            "Orientation": [
+                -54.000301361083987,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "FirefighterAxe_Black",
+            "DisplayName": "FirefighterAxe_Black",
+            "Position": [
+                6200.1298828125,
+                301.9849853515625,
+                7727.4599609375
+            ],
+            "Orientation": [
+                -50.000099182128909,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 30
+        },
+        {
+            "Type": "Pickaxe",
+            "DisplayName": "Pickaxe",
+            "Position": [
+                6201.85986328125,
+                302.54998779296877,
+                7726.2998046875
+            ],
+            "Orientation": [
+                -54.0005989074707,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 30
+        },
+        {
+            "Type": "Iceaxe",
+            "DisplayName": "Iceaxe",
+            "Position": [
+                6199.7900390625,
+                301.70001220703127,
+                7727.7001953125
+            ],
+            "Orientation": [
+                26.999897003173829,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "PipeWrench",
+            "DisplayName": "PipeWrench",
+            "Position": [
+                6200.080078125,
+                302.3070068359375,
+                7723.669921875
+            ],
+            "Orientation": [
+                -54.00039291381836,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "LugWrench",
+            "DisplayName": "LugWrench",
+            "Position": [
+                6200.35986328125,
+                302.3320007324219,
+                7723.47998046875
+            ],
+            "Orientation": [
+                -152.99998474121095,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Wrench",
+            "DisplayName": "Wrench",
+            "Position": [
+                6199.85009765625,
+                302.75299072265627,
+                7724.02001953125
+            ],
+            "Orientation": [
+                -170.99998474121095,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "TrashCan",
+            "DisplayName": "TrashCan",
+            "Position": [
+                6200.759765625,
+                301.19000244140627,
+                7723.31982421875
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        }
+    ],
+    "DeletedObjects": []
+}

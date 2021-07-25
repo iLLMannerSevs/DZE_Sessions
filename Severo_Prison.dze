@@ -1,0 +1,379 @@
+{
+    "MapName": "ChernarusPlus",
+    "CameraPosition": [
+        8292.818359375,
+        146.4710235595703,
+        12734.4853515625
+    ],
+    "EditorObjects": [
+        {
+            "Type": "Land_Mil_Airfield_HQ",
+            "DisplayName": "Land_Mil_Airfield_HQ",
+            "Position": [
+                8346.3095703125,
+                115.2020034790039,
+                12802.7001953125
+            ],
+            "Orientation": [
+                -1.5000001192092896,
+                -0.9999999403953552,
+                0.07641059160232544
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Mil_Barracks3",
+            "DisplayName": "Land_Mil_Barracks3",
+            "Position": [
+                8291.1298828125,
+                111.81400299072266,
+                12767.900390625
+            ],
+            "Orientation": [
+                0.0,
+                0.38190096616744997,
+                0.9929838180541992
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Mil_Guardhouse1",
+            "DisplayName": "Land_Mil_Guardhouse1",
+            "Position": [
+                8276.25,
+                112.29000091552735,
+                12763.599609375
+            ],
+            "Orientation": [
+                -90.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Mil_Guardhouse2",
+            "DisplayName": "Land_Mil_Guardhouse2",
+            "Position": [
+                8268.2197265625,
+                111.25599670410156,
+                12760.2001953125
+            ],
+            "Orientation": [
+                -90.0,
+                0.7637819647789002,
+                0.6874849200248718
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Wall_Gate_IndCnc4",
+            "DisplayName": "Land_Wall_Gate_IndCnc4",
+            "Position": [
+                8267.9697265625,
+                110.8280029296875,
+                12748.7001953125
+            ],
+            "Orientation": [
+                90.0,
+                -1.221479892730713,
+                -0.9927800893783569
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Wall_FenForest_Gate",
+            "DisplayName": "Land_Wall_FenForest_Gate",
+            "Position": [
+                8263.8603515625,
+                110.66999816894531,
+                12761.7998046875
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Wall_FenForest_Gate",
+            "DisplayName": "Land_Wall_FenForest_Gate",
+            "Position": [
+                8281.5595703125,
+                110.55000305175781,
+                12761.599609375
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_BusStop_Village2",
+            "DisplayName": "Land_BusStop_Village2",
+            "Position": [
+                8294.5,
+                110.58000183105469,
+                12761.099609375
+            ],
+            "Orientation": [
+                0.0,
+                0.38190197944641116,
+                0.9929838180541992
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Mil_GuardBox_Smooth",
+            "DisplayName": "Land_Mil_GuardBox_Smooth",
+            "Position": [
+                8269.41015625,
+                111.3280029296875,
+                12745.5
+            ],
+            "Orientation": [
+                0.0,
+                -1.1452200412750245,
+                1.374559998512268
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Radio_building",
+            "DisplayName": "Land_Radio_building",
+            "Position": [
+                8257.6298828125,
+                114.4739990234375,
+                12791.0
+            ],
+            "Orientation": [
+                -90.0,
+                0.07634758949279785,
+                0.534741997718811
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Tower_TC4_Base",
+            "DisplayName": "Land_Tower_TC4_Base",
+            "Position": [
+                8263.080078125,
+                131.43800354003907,
+                12788.5
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Tower_TC4_Mid",
+            "DisplayName": "Land_Tower_TC4_Mid",
+            "Position": [
+                8263.1796875,
+                174.88999938964845,
+                12788.400390625
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Tower_TC4_Top",
+            "DisplayName": "Land_Tower_TC4_Top",
+            "Position": [
+                8263.0498046875,
+                215.35000610351563,
+                12788.5
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Prison_Wall_Large",
+            "DisplayName": "Land_Prison_Wall_Large",
+            "Position": [
+                8275.98046875,
+                112.99800109863281,
+                12811.400390625
+            ],
+            "Orientation": [
+                152.99998474121095,
+                -0.16692498326301576,
+                0.513766884803772
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Prison_Wall_Large",
+            "DisplayName": "Land_Prison_Wall_Large",
+            "Position": [
+                8307.8798828125,
+                113.14900207519531,
+                12813.0
+            ],
+            "Orientation": [
+                172.49998474121095,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Prison_Side",
+            "DisplayName": "Land_Prison_Side",
+            "Position": [
+                8323.9296875,
+                116.25599670410156,
+                12799.2001953125
+            ],
+            "Orientation": [
+                88.99989318847656,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Castle_Stairs",
+            "DisplayName": "Land_Castle_Stairs",
+            "Position": [
+                8313.2001953125,
+                111.1500015258789,
+                12803.0
+            ],
+            "Orientation": [
+                90.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_City_PoliceStation",
+            "DisplayName": "Land_City_PoliceStation",
+            "Position": [
+                8309.599609375,
+                115.92900085449219,
+                12768.599609375
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Wall_Gate_IndCnc4",
+            "DisplayName": "Land_Wall_Gate_IndCnc4",
+            "Position": [
+                8319.330078125,
+                110.13899993896485,
+                12779.2998046875
+            ],
+            "Orientation": [
+                -90.0,
+                1.5264698266983033,
+                -0.9927109479904175
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Misc_Calvary1",
+            "DisplayName": "Land_Misc_Calvary1",
+            "Position": [
+                8320.4404296875,
+                111.05599975585938,
+                12782.0
+            ],
+            "Orientation": [
+                0.0,
+                0.9923368692398071,
+                1.5272698402404786
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Chapel2_Yellow",
+            "DisplayName": "Land_Chapel2_Yellow",
+            "Position": [
+                8333.2001953125,
+                112.19499969482422,
+                12783.7998046875
+            ],
+            "Orientation": [
+                0.0,
+                2.3641598224639894,
+                -0.1526319831609726
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Church4_Lightblue",
+            "DisplayName": "Land_Church4_Lightblue",
+            "Position": [
+                8338.2998046875,
+                122.97100067138672,
+                12769.7998046875
+            ],
+            "Orientation": [
+                -90.99978637695313,
+                0.9161719679832459,
+                -1.3746598958969117
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        },
+        {
+            "Type": "Land_Ruin_HouseSmall2_NoIvy",
+            "DisplayName": "Land_Ruin_HouseSmall2_NoIvy",
+            "Position": [
+                8346.58984375,
+                111.89399719238281,
+                12785.099609375
+            ],
+            "Orientation": [
+                -1.5,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 30
+        }
+    ],
+    "DeletedObjects": []
+}
